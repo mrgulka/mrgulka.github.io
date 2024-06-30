@@ -56,11 +56,11 @@
   </head>
   <body>
     <header>
-      <div class="topnav">
-        <a class="active" href="https://mrgulka.github.io/table_ids">Items New</a>
-        <a href="https://mrgulka.github.io/table_ids">Vehicles</a>
-        <a href="https://mrgulka.github.io/table_ids">Items old</a>
-        <a href="https://mrgulka.github.io/table_ids">Helpers</a>
+      <div class="topnav text-white">
+        <a class="active" onclick="ReloadItems()">Items New</a>
+        <a onclick="ReloadVehicle()">Vehicles</a>
+        <a onclick="ReloadItemsOld()">Items old</a>
+        <a onclick="ReloadHelpers()">Helpers</a>
         <div class="form-group">
           <input type="text" class="form-control" id="search" placeholder="Поиск по таблице">
         </div>
@@ -80,26 +80,20 @@
       </table>
     </div>
       <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-      <!--<script src="https://cdn.datatables.net/2.0.8/js/dataTables.js"></script>
-      <script src="C:\Users\shcha\Documents\GitHub\mrgulka.github.io\script.js"></script>-->
       <script>
-        $(function()
+        $(function Reload()
         {
            $.getJSON('https://mrgulka.github.io/id-gulka.json', function(data)
            {
                var allRecordsHTML='';
                for(var i=0;i<data.new.length;i++)
                {
-                   //Prepare html row
                    allRecordsHTML+='<tr>';
-   
                    allRecordsHTML+='<td>' + '<img height="50" class="image" src="https://mrgulka.github.io/images/' + data.new[i].ID + '.png"/>' + '</td>';
                    allRecordsHTML+='<td>'+data.new[i].ID+'</td>';
                    allRecordsHTML+='<td>'+data.new[i].NAME+'</td>';
-   
                    allRecordsHTML+='</tr>';
                }
-               //Append the table header and all records
                var table=document.getElementById("dataTable");
                
                table.innerHTML = allRecordsHTML;
