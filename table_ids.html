@@ -8,6 +8,7 @@
     <style>
         body {
           margin: 0;
+          flex: auto;
           font-family: Arial, Helvetica, sans-serif;
         }
         
@@ -34,102 +35,94 @@
           background-color: #4CAF50;
           color: white;
         }
-        </style>
+        header {
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 88px;
+          z-index: 10;
+          background: #eeeeee;
+          -webkit-box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
+          -moz-box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
+          box-shadow: 0 7px 8px rgba(0, 0, 0, 0.12);
+        }
+        .base_dataTable{
+          margin-top: 90px;
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.0.8/css/dataTables.dataTables.css" />
   </head>
   <body>
-    <div class="topnav">
+    <header>
+      <div class="topnav">
         <a class="active" href="https://mrgulka.github.io/table_ids">Items New</a>
         <a href="https://mrgulka.github.io/table_ids">Vehicles</a>
         <a href="https://mrgulka.github.io/table_ids">Items old</a>
         <a href="https://mrgulka.github.io/table_ids">Helpers</a>
+        <div class="form-group">
+          <input type="text" class="form-control" id="search" placeholder="Поиск по таблице">
+        </div>
       </div>
-
-    <table id="display_json_data" class="table table-bordered table-striped"></table>
+    </header>
+    <div class="base_dataTable">
+      <table id="display_json_data" class="table table-bordered table-striped table-vcenter dataTable no-footer">
+        <thead>
+          <tr>
+            <th>Photo</th>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Discription</th>
+          </tr>
+        </thead>
+        <tbody id="dataTable"></tbody>
+      </table>
     </div>
-    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script>
-     $(function()
-     {
-        $.getJSON('https://mrgulka.github.io/id-gulka.json', function(data)
+      <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+      <!--<script src="https://cdn.datatables.net/2.0.8/js/dataTables.js"></script>
+      <script src="C:\Users\shcha\Documents\GitHub\mrgulka.github.io\script.js"></script>-->
+      <script>
+        $(function()
         {
-            console.log(data)
-            var headerRowHTML='<tr>';
-            headerRowHTML+='<th>Photo</th>'
-            headerRowHTML+='<th>ID</th>'
-            headerRowHTML+='<th>Name</th>';
-            /*for(var i=0;i<headers.length;i++)
-            {
-                headerRowHTML+='<th>'+headers[i]+'</th>';
-            }
-            headerRowHTML+='</tr>';*/
-            //Prepare all the employee records as HTML
-            var allRecordsHTML='';
-            for(var i=0;i<data.new.length;i++)
-            {
-                //Prepare html row
-                allRecordsHTML+='<tr>';
-                allRecordsHTML+='<td>' + '<img width="100" height="100" src="https://raw.githubusercontent.com/mrgulka/mrgulka.github.io/main/images/' + data.new[i].ID + '.png"/>' + '</td>';
-                allRecordsHTML+='<td>'+data.new[i].ID+'</td>';
-                allRecordsHTML+='<td>'+data.new[i].NAME+'</td>';
-
-
-                /*for(var j=0;j<headers.length;j++)
-                {
-                    var header=headers[j];
-                    allRecordsHTML+='<td>'+employeeJson[i][header]+'</td>';
-                }
-                allRecordsHTML+='</tr>';*/
-            }
-            //Append the table header and all records
-            var table=document.getElementById("display_json_data");
-            table.innerHTML=headerRowHTML + allRecordsHTML;
-        })
-     });
-
-
-    /*var employeeJson = [
-        {
-            "ID": 15400,
-            "NAME": "Броня клона",
-        }];
-     
-    function convertJsonToBootstrapTable(){
-        //Get the headers from JSON data
-        var headers = Object.keys(employeeJson[0]);
-         
-        //Prepare html header
-        var headerRowHTML='<tr>';
-        headerRowHTML+='<th>Photo</th>';
-        for(var i=0;i<headers.length;i++)
-        {
-            headerRowHTML+='<th>'+headers[i]+'</th>';
-        }
-        headerRowHTML+='</tr>';       
-         
-        //Prepare all the employee records as HTML
-        var allRecordsHTML='';
-        for(var i=0;i<employeeJson.length;i++)
-        {
-            
-
-            //Prepare html row
-            allRecordsHTML+='<tr>';
-            allRecordsHTML+='<td>' + '<img width="150" height="100" src="images/' + employeeJson[i].ID + '.png"/>' + '</td>';
-            for(var j=0;j<headers.length;j++)
-            {
-                var header=headers[j];
-                allRecordsHTML+='<td>'+employeeJson[i][header]+'</td>';
-            }
-            allRecordsHTML+='</tr>';
-             
-        }
-         
-        //Append the table header and all records
-        var table=document.getElementById("display_json_data");
-        table.innerHTML=headerRowHTML + allRecordsHTML;
-    }*/
-       
-    </script>
-    <script type="text/javascript" src="id-gulka.json"></script>
+           $.getJSON('https://mrgulka.github.io/id-gulka.json', function(data)
+           {
+               var allRecordsHTML='';
+               for(var i=0;i<data.new.length;i++)
+               {
+                   //Prepare html row
+                   allRecordsHTML+='<tr>';
+   
+                   allRecordsHTML+='<td>' + '<img height="50" class="image" src="https://mrgulka.github.io/images/' + data.new[i].ID + '.png"/>' + '</td>';
+                   allRecordsHTML+='<td>'+data.new[i].ID+'</td>';
+                   allRecordsHTML+='<td>'+data.new[i].NAME+'</td>';
+   
+                   allRecordsHTML+='</tr>';
+               }
+               //Append the table header and all records
+               var table=document.getElementById("dataTable");
+               
+               table.innerHTML = allRecordsHTML;
+           })
+        });
+       </script>
+       <script>
+         $(document).ready(function(){
+             $("#search").keyup(function()
+             {
+               _this = this;
+               $.each($("#display_json_data tbody tr"), function() 
+               {
+                   if($(this).text().toLowerCase().indexOf($(_this).val().toLowerCase()) === -1)
+                   {
+                       $(this).hide();
+                   } 
+                   else 
+                   {
+                       $(this).show();                
+                   }
+               });
+             });
+         });
+        </script>
   </body>
 </html>
