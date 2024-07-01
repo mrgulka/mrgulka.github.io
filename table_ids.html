@@ -89,7 +89,7 @@
                for(var i=0;i<data.new.length;i++)
                {
                    allRecordsHTML+='<tr>';
-                   allRecordsHTML+='<td>' + '<img height="50" class="image" src="https://mrgulka.github.io/images/' + data.new[i].ID + '.png"/>' + '</td>';
+                   allRecordsHTML+='<td>' + '<img height="50" class="image" src="https://mrgulka.github.io/images/' + data.new[i].ID + '.png" oneerror=" "/>' + '</td>';
                    allRecordsHTML+='<td>'+data.new[i].ID+'</td>';
                    allRecordsHTML+='<td>'+data.new[i].NAME+'</td>';
                    allRecordsHTML+='</tr>';
