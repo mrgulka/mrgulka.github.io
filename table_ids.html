@@ -81,24 +81,7 @@
     </div>
       <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
       <script>
-        $(function Reload(path)
-        {
-           $.getJSON(path, function(data)
-           {
-               var allRecordsHTML='';
-               for(var i=0;i<data.length;i++)
-               {
-                   allRecordsHTML+='<tr>';
-                   allRecordsHTML+='<td>' + '<img height="50" class="image" src="https://mrgulka.github.io/images/' + data[i].ID + '.png" oneerror=\'this.style.display = "none"\' alt=" "/>' + '</td>';
-                   allRecordsHTML+='<td>'+data[i].ID+'</td>';
-                   allRecordsHTML+='<td>'+data[i].NAME+'</td>';
-                   allRecordsHTML+='</tr>';
-               }
-               var table=document.getElementById("dataTable");
-               
-               table.innerHTML = allRecordsHTML;
-           })
-        });
+        $(Reload('https://mrgulka.github.io/2612257810.json'));
        </script>
        <script>
          $(document).ready(function(){
@@ -126,6 +109,24 @@
           };
           function ReloadOriginal(){
             Reload('https://mrgulka.github.io/1664827613.json');
+          };
+          function Reload(path)
+          {
+           $.getJSON(path, function(data)
+           {
+               var allRecordsHTML='';
+               for(var i=0;i<data.length;i++)
+               {
+                   allRecordsHTML+='<tr>';
+                   allRecordsHTML+='<td>' + '<img height="50" class="image" src="https://mrgulka.github.io/images/' + data[i].ID + '.png" oneerror=\'this.style.display = "none"\' alt=" "/>' + '</td>';
+                   allRecordsHTML+='<td>'+data[i].ID+'</td>';
+                   allRecordsHTML+='<td>'+data[i].NAME+'</td>';
+                   allRecordsHTML+='</tr>';
+               }
+               var table=document.getElementById("dataTable");
+               
+               table.innerHTML = allRecordsHTML;
+           })
           };
         </script>
   </body>
