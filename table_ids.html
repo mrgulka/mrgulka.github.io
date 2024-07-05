@@ -93,6 +93,7 @@
       $.getJSON(path, function (data) {
         var allRecordsHTML = '';
         for (var i = 0; i < data.length; i++) {
+          if (data[i].Type == "Object") return;
           allRecordsHTML += '<tr>';
           allRecordsHTML += '<td>' + '<img height="50" class="image" src="https://mrgulka.github.io/images/' + data[i].ID + '.png" oneerror=\'this.style.display = "none"\' alt=" "/>' + '</td>';
           allRecordsHTML += '<td>' + data[i].ID + '</td>';
