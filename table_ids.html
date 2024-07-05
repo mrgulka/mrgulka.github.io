@@ -61,8 +61,8 @@
 <body>
   <header>
     <div class="topnav text-white">
-      <button class="active" id="relsi">Items New</button>
-      <button id="relorig">Original</button>
+      <a class="active" id="relsi">Items New</a>
+      <a id="relorig">Original</a>
       <a onclick="ReloadItemsOld()">Items old</a>
       <a onclick="ReloadHelpers()">Helpers</a>
       <div class="form-group">
@@ -85,8 +85,10 @@
   </div>
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script>
-    $('relsi').click(Reload('https://mrgulka.github.io/2612257810.json'));
-    $('relorig').click(Reload('https://mrgulka.github.io/1664827613.json'));
+    $(document).ready(function () {
+      $('relsi').click(Reload('https://mrgulka.github.io/2612257810.json'));
+      $('relorig').click(Reload('https://mrgulka.github.io/1664827613.json'));
+    });
     function Reload(path) {
       $.getJSON(path, function (data) {
         var allRecordsHTML = '';
