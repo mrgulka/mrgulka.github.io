@@ -81,17 +81,17 @@
     </div>
       <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
       <script>
-        $(function Reload()
+        $(function Reload(path)
         {
-           $.getJSON('https://mrgulka.github.io/id-gulka.json', function(data)
+           $.getJSON(path, function(data)
            {
                var allRecordsHTML='';
-               for(var i=0;i<data.new.length;i++)
+               for(var i=0;i<data.length;i++)
                {
                    allRecordsHTML+='<tr>';
-                   allRecordsHTML+='<td>' + '<img height="50" class="image" src="https://mrgulka.github.io/images/' + data.new[i].ID + '.png" oneerror=\'this.style.display = "none"\' alt=" "/>' + '</td>';
-                   allRecordsHTML+='<td>'+data.new[i].ID+'</td>';
-                   allRecordsHTML+='<td>'+data.new[i].NAME+'</td>';
+                   allRecordsHTML+='<td>' + '<img height="50" class="image" src="https://mrgulka.github.io/images/' + data[i].ID + '.png" oneerror=\'this.style.display = "none"\' alt=" "/>' + '</td>';
+                   allRecordsHTML+='<td>'+data[i].ID+'</td>';
+                   allRecordsHTML+='<td>'+data[i].NAME+'</td>';
                    allRecordsHTML+='</tr>';
                }
                var table=document.getElementById("dataTable");
@@ -118,6 +118,15 @@
                });
              });
          });
+        </script>
+        <script>
+          function ReloadItems()
+          {
+            Reload('https://mrgulka.github.io/2612257810.json');
+          };
+          function ReloadOriginal(){
+            Reload('https://mrgulka.github.io/1664827613.json');
+          };
         </script>
   </body>
 </html>

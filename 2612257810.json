@@ -1,0 +1,5014 @@
+[
+  {
+    "ID": 5555,
+    "Name": "MegaLocker",
+    "Type": "Storage",
+    "Rarity": "Legendary",
+    "Description": "<color=#8A2BE2>Создано проектом</color> <color=#FF0000>ГульStore.</color>"
+  },
+  {
+    "ID": 15028,
+    "Name": "E-5",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 15029,
+    "Name": "E-5 Magazine",
+    "Type": "Magazine",
+    "Rarity": "Mythical",
+    "Description": "Магазин для <color=red>E-5</color> - оружие CIS."
+  },
+  {
+    "ID": 15036,
+    "Name": "Admin_Gun",
+    "Type": "Gun",
+    "Rarity": "Mythical",
+    "Description": "Admin_Gun"
+  },
+  {
+    "ID": 15042,
+    "Name": "DC-25 Magazine",
+    "Type": "Magazine",
+    "Rarity": "Mythical",
+    "Description": "Магазин для <color=red>DC-25</color> - оружие RC Республики."
+  },
+  {
+    "ID": 15046,
+    "Name": "Smart Rocket Launcher",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "Powerful rocket launcher used by both the Galactic Empire and Rebel Alliance during the Galactic Civil War."
+  },
+  {
+    "ID": 15047,
+    "Name": "Rocket Energy Cell",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "Description": "Dual slotted high powered rocket energy cell."
+  },
+  {
+    "ID": 15052,
+    "Name": "Контрабандитский ящик",
+    "Type": "Storage",
+    "Rarity": "Legendary",
+    "Description": "Защищенный ящик. <color=red>(C) Гулька</color>"
+  },
+  {
+    "ID": 15053,
+    "Name": "Контрабандитский ящик (Открытый)",
+    "Type": "Storage",
+    "Rarity": "Legendary",
+    "Description": "Защищенный ящик. <color=red>(C) Гулька</color>"
+  },
+  {
+    "ID": 15054,
+    "Name": "Флаг КНС",
+    "Type": "Barricade",
+    "Rarity": null,
+    "Description": "[15054] Флаг КНС."
+  },
+  {
+    "ID": 15055,
+    "Name": "CIS Munificent",
+    "Type": "Barricade",
+    "Rarity": null,
+    "Description": "Munificent"
+  },
+  {
+    "ID": 15056,
+    "Name": "Флаг ВАР",
+    "Type": "Barricade",
+    "Rarity": null,
+    "Description": "[15056] Флаг ВАР."
+  },
+  {
+    "ID": 15057,
+    "Name": "Стенд 1",
+    "Type": "Barricade",
+    "Rarity": null,
+    "Description": "чо те надо бля"
+  },
+  {
+    "ID": 15058,
+    "Name": "Стенд 2",
+    "Type": "Barricade",
+    "Rarity": null,
+    "Description": "чо те надо бля"
+  },
+  {
+    "ID": 15075,
+    "Name": "Отключенный планшет",
+    "Type": "Supply",
+    "Rarity": "Mythical",
+    "Description": "Нужно починить. Зовите инженеров. "
+  },
+  {
+    "ID": 15076,
+    "Name": "Разведданые КНС",
+    "Type": "Supply",
+    "Rarity": "Mythical",
+    "Description": "Большое количество информации о КНС."
+  },
+  {
+    "ID": 15077,
+    "Name": "Разведданые ВРА",
+    "Type": "Supply",
+    "Rarity": "Mythical",
+    "Description": "Большое количество информации о ВРА."
+  },
+  {
+    "ID": 15078,
+    "Name": "Карманный Персональный Компьютер",
+    "Type": "Map",
+    "Rarity": "Mythical",
+    "Description": "Карманный Персональный Компьютер подключенный к Галактической сети."
+  },
+  {
+    "ID": 15079,
+    "Name": "Стимулятор",
+    "Type": "Medical",
+    "Rarity": "Rare",
+    "Description": "Используется в чрезвычайной ситуации, содержит высококонцетрированную бакту с добавками, после стимуляции через некоторое время возможна смерть."
+  },
+  {
+    "ID": 15080,
+    "Name": "Бакта",
+    "Type": "Medical",
+    "Rarity": "Rare",
+    "Description": "Бакта в герметичной упаковке. Используется в полевых условиях."
+  },
+  {
+    "ID": 15081,
+    "Name": "Батончик",
+    "Type": "Food",
+    "Rarity": "Rare",
+    "Description": "Используется клонами в боевых условиях. Очень питателен."
+  },
+  {
+    "ID": 15089,
+    "Name": "Упаковка с расходниками",
+    "Type": "Supply",
+    "Rarity": "Rare",
+    "Description": "5 бутылок воды, 5 батончиков, 5 дошираков"
+  },
+  {
+    "ID": 15090,
+    "Name": "Canvas",
+    "Type": "Barricade",
+    "Rarity": null,
+    "Description": "Blank canvas for writing text."
+  },
+  {
+    "ID": 15091,
+    "Name": "Locked Canvas",
+    "Type": "Barricade",
+    "Rarity": null,
+    "Description": "Blank canvas for writing text."
+  },
+  {
+    "ID": 15092,
+    "Name": "Locked Item Display",
+    "Type": "Storage",
+    "Rarity": null,
+    "Description": "Display for storing items."
+  },
+  {
+    "ID": 15093,
+    "Name": "Black Smoke Emitter",
+    "Type": "Barricade",
+    "Rarity": null,
+    "Description": "Black smoke particle emitter."
+  },
+  {
+    "ID": 15094,
+    "Name": "Smoke Emitter",
+    "Type": "Barricade",
+    "Rarity": null,
+    "Description": "Smoke particle emitter."
+  },
+  {
+    "ID": 15095,
+    "Name": "Fire Emitter",
+    "Type": "Barricade",
+    "Rarity": null,
+    "Description": "Fire particle emitter."
+  },
+  {
+    "ID": 15110,
+    "Name": "Droid BX",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Droid BX"
+  },
+  {
+    "ID": 15112,
+    "Name": "Droid BX Helmet",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": "Droid BX Helmet"
+  },
+  {
+    "ID": 15114,
+    "Name": "Droid Tactical",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Droid Tactical"
+  },
+  {
+    "ID": 15116,
+    "Name": "Droid Tactical Helmet",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": "Droid Tactical Helmet"
+  },
+  {
+    "ID": 15140,
+    "Name": "A-300",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A-300 производства ГульТяжПрома. "
+  },
+  {
+    "ID": 15141,
+    "Name": "A280C Blaster Rifle",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A280C - производства ГульТяжПрома."
+  },
+  {
+    "ID": 15143,
+    "Name": "DC-17 Dual",
+    "Type": "Gun",
+    "Rarity": "Uncommon",
+    "Description": "<color=#FF0000>[ID:15143]</color> DC-17 Dual"
+  },
+  {
+    "ID": 15144,
+    "Name": "DC-17 Dual Magazine",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "Description": "<color=#FF0000>[ID:15144]</color> DC-17 Dual Magazine"
+  },
+  {
+    "ID": 15187,
+    "Name": "Маска Клона Пилота",
+    "Type": "Mask",
+    "Rarity": "Rare",
+    "Description": "Маска Клона Пилота."
+  },
+  {
+    "ID": 15195,
+    "Name": "Стол командования",
+    "Type": "Barricade",
+    "Rarity": "Uncommon",
+    "Description": "Для обсуждения важных вопросов."
+  },
+  {
+    "ID": 15211,
+    "Name": "Танк IG-227",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15213,
+    "Name": "Стервятник КНС ",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15216,
+    "Name": "ETA-2",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15218,
+    "Name": "HMP",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15220,
+    "Name": "TX-130",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15221,
+    "Name": "AIV-120",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15296,
+    "Name": "Голокрон Ситхов (Открытый)",
+    "Type": "Supply",
+    "Rarity": "Mythical",
+    "Description": "Могущественная сила... (моментальная смерть если не владеешь силой)"
+  },
+  {
+    "ID": 15297,
+    "Name": "Голокрон Ситхов (Закрытый)",
+    "Type": "Supply",
+    "Rarity": "Mythical",
+    "Description": "Голокрон таящий смертельную силу..."
+  },
+  {
+    "ID": 15298,
+    "Name": "Голокрон Джедаев (Открытый)",
+    "Type": "Supply",
+    "Rarity": "Mythical",
+    "Description": "Бесконечный источник информации..."
+  },
+  {
+    "ID": 15299,
+    "Name": "Голокрон Джедаев (Закрытый)",
+    "Type": "Supply",
+    "Rarity": "Mythical",
+    "Description": "Голокрон"
+  },
+  {
+    "ID": 15310,
+    "Name": "Serroko Ksor's light sword",
+    "Type": "Melee",
+    "Rarity": "Mythical",
+    "Description": "Serroko Ksor's light sword."
+  },
+  {
+    "ID": 15311,
+    "Name": "Kain's light sword",
+    "Type": "Melee",
+    "Rarity": "Mythical",
+    "Description": "Kain's light sword."
+  },
+  {
+    "ID": 15312,
+    "Name": "Ganhi's light sword",
+    "Type": "Melee",
+    "Rarity": "Mythical",
+    "Description": "Ganhi's light sword."
+  },
+  {
+    "ID": 15356,
+    "Name": "Прицел RPS-6",
+    "Type": "Sight",
+    "Rarity": "Legendary",
+    "Description": "Прицел RPS-6."
+  },
+  {
+    "ID": 15357,
+    "Name": "UI_Common",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15358,
+    "Name": "Microphone_Sprite",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15359,
+    "Name": "Stun_Grenade",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15360,
+    "Name": "UI_Sirena",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15361,
+    "Name": "UI_RegPlayer",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15362,
+    "Name": "UI_Person",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15363,
+    "Name": "UI_KMDManager",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15364,
+    "Name": "UI_BUT",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15365,
+    "Name": "UI_Base",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15366,
+    "Name": "Джетпак Гекка",
+    "Type": "Backpack",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15367,
+    "Name": "Штаны Гекка",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15368,
+    "Name": "Шлем Гекка",
+    "Type": "Hat",
+    "Rarity": "Mythical",
+    "Description": null
+  },
+  {
+    "ID": 15369,
+    "Name": "Дальномер Гекка",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 15370,
+    "Name": "Куртка Гекка",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15371,
+    "Name": "Бронежилет Гекка",
+    "Type": "Vest",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15372,
+    "Name": "Blue_Trail_Taser_0",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15373,
+    "Name": "Bakta_Grenade",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15374,
+    "Name": "UI_Knockdown",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15376,
+    "Name": "Flamethrower_Effect_0",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15377,
+    "Name": "Orb_Boom_3",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15378,
+    "Name": "Orb_Boom_2",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15379,
+    "Name": "Orb_Boom_1",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15380,
+    "Name": "Orb_Boom_0",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15381,
+    "Name": "Orbital_Shoot_0",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15382,
+    "Name": "Hook_Gun_Effect",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15384,
+    "Name": "B2_G1_Sight",
+    "Type": "Sight",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15385,
+    "Name": "AT_TE_Explosion_1",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15386,
+    "Name": "Blue_Trail_ATTE_0",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15387,
+    "Name": "UI",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15388,
+    "Name": "Снаряд для пушки АТТЕ",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Снаряд для пушки АТТЕ."
+  },
+  {
+    "ID": 15389,
+    "Name": "Магазин для турели АТТЕ",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Магазин для турели АТТЕ."
+  },
+  {
+    "ID": 15390,
+    "Name": "Турель АТТЕ",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 15391,
+    "Name": "Турель АТТЕ",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 15393,
+    "Name": "Турель СНДК",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 15394,
+    "Name": "Red_Trail_0",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15395,
+    "Name": "Red_Muzzle_0",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15396,
+    "Name": "Green_Trail_0",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15397,
+    "Name": "Green_Muzzle_0",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15398,
+    "Name": "Blue_Trail_0",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15399,
+    "Name": "Blue_Muzzle_0",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15400,
+    "Name": "Броня Клона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15400,
+    "Name": "СНДК/п | LAAT/i",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15400,
+    "Name": "[Гулька] Название \"Ангар\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15401,
+    "Name": "СНДК/п с турелями | LAAT/i",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15401,
+    "Name": "Шлем Клона Фаза II",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Шлем Клона Фаза II."
+  },
+  {
+    "ID": 15401,
+    "Name": "[Гулька] Название \"Главные Ворота\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15402,
+    "Name": "Термобелье Клона",
+    "Type": "Pants",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15402,
+    "Name": "[Гулька] Название \"Казармы\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15402,
+    "Name": "СНДК/п с фонарями | LAAT/i",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15403,
+    "Name": "ATTE",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15403,
+    "Name": "Шлем Клона Разведчика",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Шлем Клона Разведчика."
+  },
+  {
+    "ID": 15403,
+    "Name": "[Гулька] Название \"Медблок\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15404,
+    "Name": "Звёздный истребитель-разведчик 170",
+    "Type": "Vehicle",
+    "Rarity": "Mythical",
+    "Description": null
+  },
+  {
+    "ID": 15404,
+    "Name": "Шлем Клона Десантника",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Шлем Клона Десантника."
+  },
+  {
+    "ID": 15404,
+    "Name": "[Гулька] Название \"Мостик\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15405,
+    "Name": "Шлем Клона Пилота",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Шлем Клона Пилота."
+  },
+  {
+    "ID": 15405,
+    "Name": "Медицинская грави-каталка",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 15405,
+    "Name": "[Гулька] Название \"Плац\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15406,
+    "Name": "[Гулька] Название \"Пост КПП\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15406,
+    "Name": "Нагрудник Клона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона."
+  },
+  {
+    "ID": 15406,
+    "Name": "AAT | Бронированный штурмовой танк (БШТ)",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15407,
+    "Name": "Шлем Клона Курсанта",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15407,
+    "Name": "[Гулька] Название \"ВПП\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15408,
+    "Name": "[Гулька] Название \"Штаб\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15408,
+    "Name": "ART_VAR",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15409,
+    "Name": "[Гулька] Название \"Учебка\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15409,
+    "Name": "СНДК/грузовой | LAAT/с",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15410,
+    "Name": "[Гулька] Название \"Склад\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15410,
+    "Name": "СНДК/п | LAAT/i",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15411,
+    "Name": "[Гулька] Название \"ЗБП\"",
+    "Type": "Medium",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15411,
+    "Name": "Штурмовой шаттл \"Ню\" | Nu-class attack shuttle",
+    "Type": "Vehicle",
+    "Rarity": "Mythical",
+    "Description": null
+  },
+  {
+    "ID": 15412,
+    "Name": "Штурмовой шаттл \"Ню\" | Nu-class attack shuttle",
+    "Type": "Vehicle",
+    "Rarity": "Mythical",
+    "Description": null
+  },
+  {
+    "ID": 15412,
+    "Name": "[Гулька] Название \"Зона Отдыха\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15413,
+    "Name": "AIV-140",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15413,
+    "Name": "[Гулька] Картинка \"АТ-ТЕ\"",
+    "Type": "Decal",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15414,
+    "Name": "[Гулька] Картинка \"DC-15a\"",
+    "Type": "Decal",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15414,
+    "Name": "AIV-140 Turret",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15415,
+    "Name": "[Гулька] Картинка \"Знак Республики\"",
+    "Type": "Decal",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15416,
+    "Name": "Магазин для турели СНДК",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 15416,
+    "Name": "[Гулька] Камино #0",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15417,
+    "Name": "[Гулька] Камино #1",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15418,
+    "Name": "Вращающаяся бластерная пушка Z-6",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "Вращающаяся бластерная пушка Z-6. Производитель - Арсеналы Мерр-Сонн. Для Великой Армии Республики."
+  },
+  {
+    "ID": 15418,
+    "Name": "[Гулька] Камино #2",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15419,
+    "Name": "Z6 Магазин",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "Description": "Z6 Магазин."
+  },
+  {
+    "ID": 15419,
+    "Name": "[Гулька] Камино #3",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15420,
+    "Name": "Нагрудник KD 2-ого лётного корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник KD 2-ого лётного корпуса."
+  },
+  {
+    "ID": 15420,
+    "Name": "[Гулька] Камино #4",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15421,
+    "Name": "[Гулька] Камино #5",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15421,
+    "Name": "Броня Клона с Камой",
+    "Type": "Shirt",
+    "Rarity": "Mythical",
+    "Description": "Броня Клона с Камой."
+  },
+  {
+    "ID": 15422,
+    "Name": "Шлем Клона 212-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15422,
+    "Name": "[Гулька] Камино #6",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15423,
+    "Name": "Шлем Клона 212-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15423,
+    "Name": "[Гулька] Камино #7",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15424,
+    "Name": "Шлем Клона Разведчика 212-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15424,
+    "Name": "[Гулька] Камино #8",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15425,
+    "Name": "[Гулька] Камино #9",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15425,
+    "Name": "Шлем Клона Десантника 212-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15426,
+    "Name": "Шлем Клона Пилота 212-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15426,
+    "Name": "[Гулька] Камино #10",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15427,
+    "Name": "Кама",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Кама."
+  },
+  {
+    "ID": 15427,
+    "Name": "[Гулька] Камино #11",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15428,
+    "Name": "Броня Клона Десантника 212-ого батальона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15428,
+    "Name": "[Гулька] Камино #12",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15429,
+    "Name": "Нагрудник KD 212-ого батальона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник KD 212-ого батальона."
+  },
+  {
+    "ID": 15429,
+    "Name": "[Гулька|STARIRON] LAAT/i",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15430,
+    "Name": "[Гулька|STARIRON] ATTE",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15430,
+    "Name": "Броня Клона Медика",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15431,
+    "Name": "[Гулька|STARIRON] Statue_Clone_0",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15431,
+    "Name": "Нагрудник Клона с сумкой",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15432,
+    "Name": "Броня Клона 212-ого батальона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15432,
+    "Name": "[Гулька] Камино #13",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15433,
+    "Name": "Шлем Клона 2-ого лётного корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15433,
+    "Name": "[Гулька] Название \"КПЗ\"",
+    "Type": "Medium",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15434,
+    "Name": "Шлем Клона 2-ого лётного корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15434,
+    "Name": "[Гулька] Название \"Генератор\"",
+    "Type": "Medium",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15435,
+    "Name": "Шлем Клона Разведчика 2-ого лётного корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15435,
+    "Name": "[Гулька] Название \"Лекторий\"",
+    "Type": "Medium",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15436,
+    "Name": "[Гулька] Название \"Пески\"",
+    "Type": "Medium",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15436,
+    "Name": "Шлем Клона Пилота 2-ого лётного корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15437,
+    "Name": "Броня Клона 2-ого лётного корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15437,
+    "Name": "[Гулька] Название \"Стрельбище\"",
+    "Type": "Medium",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15438,
+    "Name": "Броня Клона 2-ого лётного корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15438,
+    "Name": "[Гулька] Название \"Цитадель\"",
+    "Type": "Medium",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15439,
+    "Name": "Нагрудник 2-ого лётного корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник 2-ого лётного корпуса."
+  },
+  {
+    "ID": 15439,
+    "Name": "[Гулька|STARIRON] Объект \"КПЗ\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15440,
+    "Name": "[Гулька|STARIRON] Объект \"Лекторий\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15440,
+    "Name": "Шлем Клона 501-ого легиона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15441,
+    "Name": "Нагрудник Клона Медика",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона Медика."
+  },
+  {
+    "ID": 15441,
+    "Name": "[Гулька|STARIRON] Объект \"Медицинский знак\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15442,
+    "Name": "Нагрудник 212-ого батальона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник 212-ого батальона."
+  },
+  {
+    "ID": 15442,
+    "Name": "[Гулька|STARIRON] Объект \"Плац\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15443,
+    "Name": "Шлем Клона Разведчика 501-ого легиона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15443,
+    "Name": "[Гулька|STARIRON] Venator_0 Венатор",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15444,
+    "Name": "[Гулька|STARIRON] Munificent_0 Щедрый",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15444,
+    "Name": "Шлем Клона Десантника 2-ого лётного корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15445,
+    "Name": "Шлем Клона 501-ого легиона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15445,
+    "Name": "[Гулька|STARIRON] Объект \"Склад\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15446,
+    "Name": "[Гулька|STARIRON] Объект \"Акламатор на земле\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15446,
+    "Name": "Шлем Клона Десантника 501-ого легиона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15447,
+    "Name": "Шлем Клона Пилота 501-ого легиона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15447,
+    "Name": "[Гулька|STARIRON] Объект \"База Umbara\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15448,
+    "Name": "[Гулька|STARIRON] Объект \"Дорога Umbara\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15448,
+    "Name": "Броня Клона 501-ого легиона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15449,
+    "Name": "Броня Клона Десантника 501-ого легиона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15449,
+    "Name": "[Гулька|STARIRON] Объект \"Дорога Umbara\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15450,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #1\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15450,
+    "Name": "Нагрудник 501-ого легиона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник 501-ого легиона."
+  },
+  {
+    "ID": 15451,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #2\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15451,
+    "Name": "Нагрудник KD 501-ого легиона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник KD 501-ого легиона."
+  },
+  {
+    "ID": 15452,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #3\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15452,
+    "Name": "Визор Клона",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор Клона."
+  },
+  {
+    "ID": 15453,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #4\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15453,
+    "Name": "Шлем Клона RSB",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15454,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #5\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15454,
+    "Name": "Шлем Клона RSB",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15455,
+    "Name": "Шлем Клона Разведчика RSB",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15455,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #6\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15456,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #7\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15456,
+    "Name": "Шлем Клона Десантника RSB",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15457,
+    "Name": "Шлем Клона Пилота RSB",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15457,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #8\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15458,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #9\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15458,
+    "Name": "Броня Клона RSB",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15459,
+    "Name": "Броня Клона Десантника RSB",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15459,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #10\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15460,
+    "Name": "Нагрудник RSB",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник RSB."
+  },
+  {
+    "ID": 15460,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #11\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15461,
+    "Name": "Нагрудник KD RSB",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник KD RSB."
+  },
+  {
+    "ID": 15461,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #12\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15462,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #13\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15462,
+    "Name": "Дроид R3 Синий",
+    "Type": "Shirt",
+    "Rarity": "Mythical",
+    "Description": null
+  },
+  {
+    "ID": 15463,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #14\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15463,
+    "Name": "Дроид R3 Красный",
+    "Type": "Shirt",
+    "Rarity": "Mythical",
+    "Description": null
+  },
+  {
+    "ID": 15464,
+    "Name": "Дроид R6 Синий",
+    "Type": "Shirt",
+    "Rarity": "Mythical",
+    "Description": null
+  },
+  {
+    "ID": 15464,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #15\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15465,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #16\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15465,
+    "Name": "Дроид R6 Красный",
+    "Type": "Shirt",
+    "Rarity": "Mythical",
+    "Description": null
+  },
+  {
+    "ID": 15466,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #17\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15466,
+    "Name": "Шлем Клона Rex 501-ый легион",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15467,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #18\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15467,
+    "Name": "Шлем Клона Rex CT",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15468,
+    "Name": "Капюшон для шлема Клона",
+    "Type": "Mask",
+    "Rarity": "Epic",
+    "Description": "Капюшон для шлема Клона."
+  },
+  {
+    "ID": 15468,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #19\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15469,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #20\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15469,
+    "Name": "Нагрудник Дроида",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "<color=red>[15469]</color> Нагрудник Дроида."
+  },
+  {
+    "ID": 15470,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #21\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15470,
+    "Name": "Шлем Клона Shadow",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15471,
+    "Name": "[Гулька|STARIRON] \"Tree Umbara #22\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15471,
+    "Name": "Шлем Клона Разведчика Shadow",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15472,
+    "Name": "[STARIRON] Umbara_Skybox",
+    "Type": "Medium",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15472,
+    "Name": "Шлем Клона Чистильщика Shadow",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15473,
+    "Name": "Броня Клона Shadow",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15474,
+    "Name": "Нагрудник Клона Shadow",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона Shadow."
+  },
+  {
+    "ID": 15475,
+    "Name": "Визор Клона Тёмный",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор Клона Тёмный."
+  },
+  {
+    "ID": 15476,
+    "Name": "[Гулька|STARIRON] Объект \"Казарма\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15476,
+    "Name": "Визор Дроида",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор Дроида."
+  },
+  {
+    "ID": 15477,
+    "Name": "Шлем Админа",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15477,
+    "Name": "[Гулька|STARIRON] Объект \"Медблок\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15478,
+    "Name": "Шлем Клона 501-ого легиона бойца Рекса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15479,
+    "Name": "Теплая накладка для шлема Клона",
+    "Type": "Mask",
+    "Rarity": "Epic",
+    "Description": "Теплая накладка  для шлема Клона."
+  },
+  {
+    "ID": 15480,
+    "Name": "Визор Клона 41-ого корпуса",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор Клона 41-ого корпуса."
+  },
+  {
+    "ID": 15481,
+    "Name": "Сумка Клона",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Сумка Клона."
+  },
+  {
+    "ID": 15482,
+    "Name": "Сумка Клона 41-ого легиона",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Сумка Клона 41-ого легиона."
+  },
+  {
+    "ID": 15483,
+    "Name": "Шлем Клона 41-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15484,
+    "Name": "Шлем Клона 41-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15485,
+    "Name": "Шлем Клона 41-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15486,
+    "Name": "Шлем Клона 41-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15487,
+    "Name": "Шлем Клона Разведчика 41-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15488,
+    "Name": "Шлем Клона Разведчика 41-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15489,
+    "Name": "Шлем Клона Пилота 41-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15490,
+    "Name": "Броня Клона 41-ого корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15491,
+    "Name": "Броня Клона 41-ого корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15492,
+    "Name": "Броня Клона 41-ого корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15493,
+    "Name": "Броня Клона 41-ого корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15494,
+    "Name": "Нагрудник Клона 41-ого корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона 41-ого корпуса."
+  },
+  {
+    "ID": 15495,
+    "Name": "Нагрудник Клона 41-ого корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона 41-ого корпуса."
+  },
+  {
+    "ID": 15496,
+    "Name": "Нагрудник Клона 41-ого корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона 41-ого корпуса."
+  },
+  {
+    "ID": 15497,
+    "Name": "Нагрудник Клона 41-ого корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона 41-ого корпуса."
+  },
+  {
+    "ID": 15498,
+    "Name": "Шлем Клона 104-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15499,
+    "Name": "Шлем Клона 104-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15500,
+    "Name": "Шлем Клона Разведчика 104-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15501,
+    "Name": "Шлем Клона Десантника 104-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15502,
+    "Name": "Шлем Клона Пилота 104-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15503,
+    "Name": "Броня Клона 104-ого батальона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15504,
+    "Name": "Броня Клона Десантника 104-ого батальона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15505,
+    "Name": "Нагрудник 104-ого батальона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник 104-ого батальона."
+  },
+  {
+    "ID": 15506,
+    "Name": "Нагрудник 104-ого батальона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник 104-ого батальона."
+  },
+  {
+    "ID": 15507,
+    "Name": "Шлем Клона 327-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15508,
+    "Name": "Шлем Клона 327-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15509,
+    "Name": "Шлем Клона Разведчика 327-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15510,
+    "Name": "Шлем Клона Десантника 327-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15511,
+    "Name": "Шлем Клона Пилота 327-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15512,
+    "Name": "Броня Клона 327-ого корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15513,
+    "Name": "Броня Клона 327-ого корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15514,
+    "Name": "Нагрудник 327-ого корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник 327-ого корпуса."
+  },
+  {
+    "ID": 15515,
+    "Name": "Нагрудник 327-ого корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник 327-ого корпуса."
+  },
+  {
+    "ID": 15516,
+    "Name": "Доска для шашек",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Description": "Доска для шашек."
+  },
+  {
+    "ID": 15517,
+    "Name": "Черные шашки",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Description": "Черные шашки."
+  },
+  {
+    "ID": 15518,
+    "Name": "Белые шашки",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Description": "Белые шашки."
+  },
+  {
+    "ID": 15519,
+    "Name": "Набор шашек",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "Набор шашек."
+  },
+  {
+    "ID": 15520,
+    "Name": "Набор одежды дроида B1",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "Набор одежды дроида B1. Разбери и получи снаряжение!"
+  },
+  {
+    "ID": 15521,
+    "Name": "Набор оружия дроида B1",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "Набор оружия B1."
+  },
+  {
+    "ID": 15523,
+    "Name": "Темная теплая накладка для шлема Клона",
+    "Type": "Mask",
+    "Rarity": "Epic",
+    "Description": "Темная теплая накладка для шлема Клона."
+  },
+  {
+    "ID": 15524,
+    "Name": "Капюшон шлема Клона Разведчика",
+    "Type": "Mask",
+    "Rarity": "Epic",
+    "Description": "Капюшон шлема Клона Разведчика."
+  },
+  {
+    "ID": 15525,
+    "Name": "Баррикада LAAT",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Description": "Баррикада LAAT."
+  },
+  {
+    "ID": 15526,
+    "Name": "Баррикада ATTE",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Description": "Баррикада ATTE."
+  },
+  {
+    "ID": 15527,
+    "Name": "Westar M5",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "Westar M5."
+  },
+  {
+    "ID": 15528,
+    "Name": "Westar M5 Магазин",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "Description": "<color=red>[15528]</color> Westar M5 Магазин."
+  },
+  {
+    "ID": 15529,
+    "Name": "Westar M5 Магазин Expansive",
+    "Type": "Magazine",
+    "Rarity": "Mythical",
+    "Description": "<color=red>[15529]</color> Westar M5 Магазин Expansive."
+  },
+  {
+    "ID": 15530,
+    "Name": "Джедай Тень Голова",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15531,
+    "Name": "Джедай Тень Броня",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15532,
+    "Name": "Джедай Тень Нагрудник",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Джедай Тень Нагрудник."
+  },
+  {
+    "ID": 15533,
+    "Name": "Джедай Тень Маска",
+    "Type": "Mask",
+    "Rarity": "Legendary",
+    "Description": "Джедай Тень Маска."
+  },
+  {
+    "ID": 15534,
+    "Name": "Джедай Тень Плащ",
+    "Type": "Backpack",
+    "Rarity": "Legendary",
+    "Description": "Джедай Тень Плащ."
+  },
+  {
+    "ID": 15535,
+    "Name": "Шлем ARC Hitch",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15536,
+    "Name": "Броня ARC Hitch",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15537,
+    "Name": "Нагрудник ARC Hitch",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник ARC Hitch."
+  },
+  {
+    "ID": 15538,
+    "Name": "Визор КМД 2-ого лётного корпуса",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор КМД 2-ого лётного корпуса."
+  },
+  {
+    "ID": 15539,
+    "Name": "Визор КМД 41-ого корпуса",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор КМД 41-ого корпуса."
+  },
+  {
+    "ID": 15540,
+    "Name": "Визор КМД 104-ого батальона",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор КМД 104-ого батальона."
+  },
+  {
+    "ID": 15541,
+    "Name": "Визор КМД 212-ого батальона",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор КМД 212-ого батальона."
+  },
+  {
+    "ID": 15542,
+    "Name": "Визор КМД 327-ого корпуса",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор КМД 327-ого корпуса."
+  },
+  {
+    "ID": 15543,
+    "Name": "Визор КМД 501-ого легиона",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор КМД 501-ого легиона."
+  },
+  {
+    "ID": 15544,
+    "Name": "Визор КМД 1-ого УПК",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор КМД 1-ого УПК."
+  },
+  {
+    "ID": 15545,
+    "Name": "Шлем ARF Porotol",
+    "Type": "Hat",
+    "Rarity": "Mythical",
+    "Description": null
+  },
+  {
+    "ID": 15546,
+    "Name": "Нагрудник КМД 2-ого лётного корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник КМД 2-ого лётного корпуса."
+  },
+  {
+    "ID": 15547,
+    "Name": "Нагрудник КМД 41-ого корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник КМД 41-ого корпуса."
+  },
+  {
+    "ID": 15548,
+    "Name": "Нагрудник КМД 104-ого батальона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник КМД 104-ого батальона."
+  },
+  {
+    "ID": 15549,
+    "Name": "Нагрудник КМД 212-ого батальона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник КМД 212-ого батальона."
+  },
+  {
+    "ID": 15550,
+    "Name": "Нагрудник КМД 327-ого корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник КМД 327-ого корпуса."
+  },
+  {
+    "ID": 15551,
+    "Name": "Нагрудник КМД 501-ого легиона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник КМД 501-ого легиона."
+  },
+  {
+    "ID": 15552,
+    "Name": "Нагрудник КМД 1-ого УПК",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник КМД 1-ого УПК."
+  },
+  {
+    "ID": 15553,
+    "Name": "Нагрудник КМД RSB",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник КМД RSB."
+  },
+  {
+    "ID": 15554,
+    "Name": "Набор снаряжения Курсанта (salvage в инвентаре)",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "Набор снаряжения Курсанта (разбери в инвентаре)."
+  },
+  {
+    "ID": 15556,
+    "Name": "Козырек Клона",
+    "Type": "Mask",
+    "Rarity": "Epic",
+    "Description": "<color=red>[15556]</color> Козырек Клона."
+  },
+  {
+    "ID": 15557,
+    "Name": "АДМСУМ",
+    "Type": "Backpack",
+    "Rarity": "Mythical",
+    "Description": "Сумка Админа."
+  },
+  {
+    "ID": 15558,
+    "Name": "B2Shirt",
+    "Type": "Shirt",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 15559,
+    "Name": "B2Helmet",
+    "Type": "Hat",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 15560,
+    "Name": "B2Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "B2Vest"
+  },
+  {
+    "ID": 15561,
+    "Name": "Набор одежды дроида B2.",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "<color=red>[15561]</color> Набор одежды B2."
+  },
+  {
+    "ID": 15562,
+    "Name": "Набор оружия дроида B2",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "<color=red>[15562]</color> Набор оружия B2. Разбери и получи снаряжение!"
+  },
+  {
+    "ID": 15563,
+    "Name": "B2 Gun #1",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "<color=red>[15563]</color> B2 Gun #1 Пулемет."
+  },
+  {
+    "ID": 15564,
+    "Name": "B2 Gun #2",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "<color=red>[15564]</color> B2 Gun #1 Ракетомет."
+  },
+  {
+    "ID": 15565,
+    "Name": "B2 Gun #1 Magazine",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "Description": "<color=red>[15565]</color> B2 Gun #1 Magazine."
+  },
+  {
+    "ID": 15566,
+    "Name": "B2 Gun #2 Magazine",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "Description": "<color=red>[15566]</color> B2 Gun #1 Magazine."
+  },
+  {
+    "ID": 15567,
+    "Name": "Щит ВАР",
+    "Type": "Melee",
+    "Rarity": "Legendary",
+    "Description": "<color=red>[15567]</color> Щит бойца Республиканской Армии."
+  },
+  {
+    "ID": 15568,
+    "Name": "Щит КНС",
+    "Type": "Melee",
+    "Rarity": "Legendary",
+    "Description": "<color=red>[15568]</color> Щит Армии Конфедерации Независимых Систем."
+  },
+  {
+    "ID": 15569,
+    "Name": "Стенд КНС",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Description": "<color=red>[15569]</color> Стенд КНС."
+  },
+  {
+    "ID": 15570,
+    "Name": "Стенд ВАР",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Description": "<color=red>[15570]</color> Стенд ВАР."
+  },
+  {
+    "ID": 15571,
+    "Name": "Крюк-Кошка",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "<color=red>[15571]</color> Крюк-Кошка (кд 5 минут)."
+  },
+  {
+    "ID": 15572,
+    "Name": "Снаряд для Крюк-Кошки",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "Description": "<color=red>[15572]</color> Снаряд для Крюк-Кошки."
+  },
+  {
+    "ID": 15573,
+    "Name": "Шлем Hellins",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15574,
+    "Name": "Броня Hellins",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15575,
+    "Name": "Нагрудник Hellins",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник Hellins."
+  },
+  {
+    "ID": 15576,
+    "Name": "Шлем Клона Инструктора",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15577,
+    "Name": "Броня Клона Инструктора",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15578,
+    "Name": "Нагрудник Клона Инструктора",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник Клона Инструктора."
+  },
+  {
+    "ID": 15579,
+    "Name": "Шлем Клона Инструктора Разведчика",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15580,
+    "Name": "Шлем Клона Инструктора Десантника",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15581,
+    "Name": "Шлем Клона Инструктора Пилота",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15582,
+    "Name": "Рюкзак Клона Инструктора",
+    "Type": "Backpack",
+    "Rarity": "Legendary",
+    "Description": "Рюкзак Клона Инструктора."
+  },
+  {
+    "ID": 15583,
+    "Name": "Рюкзак Клона Инструктора Адидас",
+    "Type": "Backpack",
+    "Rarity": "Legendary",
+    "Description": "Рюкзак Клона Инструктора Адидас."
+  },
+  {
+    "ID": 15584,
+    "Name": "Шлем Клона Инструктора Адидас",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15585,
+    "Name": "Броня Клона Инструктора Адидас",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15586,
+    "Name": "Нагрудник Клона Инструктора Адидас",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник Клона Инструктора Адидас."
+  },
+  {
+    "ID": 15587,
+    "Name": "Поза \"Смирно с DC-15a\"",
+    "Type": "Cloud",
+    "Rarity": "Epic",
+    "Description": "Поза \"Смирно с DC-15a\"."
+  },
+  {
+    "ID": 15588,
+    "Name": "Поза \"DC-15a на плече\"",
+    "Type": "Cloud",
+    "Rarity": "Epic",
+    "Description": "Поза \"DC-15a на плече\"."
+  },
+  {
+    "ID": 15589,
+    "Name": "DC-17m-a",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "Модульная винтовка DC-17m - автоматический режим."
+  },
+  {
+    "ID": 15590,
+    "Name": "DC-17m Магазин",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "Description": "<color=red>[15590]</color> DC-17m Магазин."
+  },
+  {
+    "ID": 15591,
+    "Name": "DC-17m-s",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "Модульная винтовка DC-17m - снайперский режим."
+  },
+  {
+    "ID": 15592,
+    "Name": "Прицел DC-17m-s",
+    "Type": "Sight",
+    "Rarity": "Legendary",
+    "Description": "Прицел DC-17m-s."
+  },
+  {
+    "ID": 15593,
+    "Name": "Сошки DC-17m-s",
+    "Type": "Grip",
+    "Rarity": "Legendary",
+    "Description": "Сошки DC-17m-s."
+  },
+  {
+    "ID": 15594,
+    "Name": "Поза \"Руки за спиной\"",
+    "Type": "Cloud",
+    "Rarity": "Epic",
+    "Description": "Поза \"Руки за спиной\"."
+  },
+  {
+    "ID": 15595,
+    "Name": "Поза \"Рука на груди",
+    "Type": "Cloud",
+    "Rarity": "Epic",
+    "Description": "Поза \"Рука на груди\"."
+  },
+  {
+    "ID": 15596,
+    "Name": "Поза \"Работа\"",
+    "Type": "Cloud",
+    "Rarity": "Epic",
+    "Description": "Поза \"Работа\"."
+  },
+  {
+    "ID": 15597,
+    "Name": "Республиканский дроид Шлем",
+    "Type": "Hat",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 15598,
+    "Name": "Республиканский дроид Броня",
+    "Type": "Shirt",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 15600,
+    "Name": "Шлем Клона 145-ой роты",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15601,
+    "Name": "Шлем Клона 145-ой роты",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15602,
+    "Name": "Шлем Клона 145-ой роты",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15603,
+    "Name": "Шлем Клона Разведчика 145-ой роты",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15604,
+    "Name": "Шлем Клона Разведчика 145-ой роты",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15605,
+    "Name": "Шлем Клона Десантника 145-ой роты",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15606,
+    "Name": "Шлем Клона Пилота 145-ой роты",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15607,
+    "Name": "Броня Клона 145-ой роты",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15608,
+    "Name": "Броня Клона 145-ой роты",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15609,
+    "Name": "Нагрудник Клона 145-ой роты",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона 145-ой роты."
+  },
+  {
+    "ID": 15610,
+    "Name": "Нагрудник Клона 145-ой роты",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона 145-ой роты."
+  },
+  {
+    "ID": 15611,
+    "Name": "Нагрудник Клона Офицера 145-ой роты",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона Офицера 145-ой роты."
+  },
+  {
+    "ID": 15612,
+    "Name": "Нагрудник Клона 145-ой роты",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона 145-ой роты."
+  },
+  {
+    "ID": 15613,
+    "Name": "Броня Клона 145-ой роты",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15614,
+    "Name": "Наплечник 145-ой роты ARC",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Наплечник 145-ой роты ARC."
+  },
+  {
+    "ID": 15615,
+    "Name": "Визор КМД 145-ой роты",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор КМД 145-ой роты."
+  },
+  {
+    "ID": 15616,
+    "Name": "Шлем Клона Kyta",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15617,
+    "Name": "Броня Клона Kyta",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15618,
+    "Name": "Нагрудник Клона Kyta",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник Клона Kyta."
+  },
+  {
+    "ID": 15619,
+    "Name": "Шлем ARC Blitz",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15620,
+    "Name": "Броня ARC Blitz",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15621,
+    "Name": "Нагрудник ARC Blitz",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник ARC Blitz."
+  },
+  {
+    "ID": 15622,
+    "Name": "Визор ARC Blitz",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор ARC Blitz."
+  },
+  {
+    "ID": 15623,
+    "Name": "Визор Клона (На ножке)",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор Клона (На ножке)."
+  },
+  {
+    "ID": 15624,
+    "Name": "Шлем ARC 1-го УПК",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15625,
+    "Name": "Броня ARC 1-го УПК",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15626,
+    "Name": "Нагрудник ARC 1-го УПК",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник ARC 1-го УПК."
+  },
+  {
+    "ID": 15627,
+    "Name": "Шлем ARC Colt",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": "Шлем ARC Colt."
+  },
+  {
+    "ID": 15628,
+    "Name": "Броня ARC Colt",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня ARC Colt."
+  },
+  {
+    "ID": 15629,
+    "Name": "Нагрудник ARC Colt",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник ARC Colt."
+  },
+  {
+    "ID": 15630,
+    "Name": "Визор ARC Colt",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор ARC Colt."
+  },
+  {
+    "ID": 15631,
+    "Name": "Шлем ARC Havoc",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": "Шлем ARC Havoc."
+  },
+  {
+    "ID": 15632,
+    "Name": "Броня ARC Havoc",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня ARC Havoc."
+  },
+  {
+    "ID": 15633,
+    "Name": "Нагрудник ARC Havoc",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник ARC Havoc."
+  },
+  {
+    "ID": 15634,
+    "Name": "Визор ARC Havoc",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор ARC Havoc."
+  },
+  {
+    "ID": 15635,
+    "Name": "Шлем ARC Hammer",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": "Шлем ARC Hammer."
+  },
+  {
+    "ID": 15636,
+    "Name": "Броня ARC Hammer",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня ARC Hammer."
+  },
+  {
+    "ID": 15637,
+    "Name": "Нагрудник ARC Hammer",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник ARC Hammer."
+  },
+  {
+    "ID": 15638,
+    "Name": "Визор ARC Hammer",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор ARC Hammer."
+  },
+  {
+    "ID": 15639,
+    "Name": "Щит Силы",
+    "Type": "Melee",
+    "Rarity": "Mythical",
+    "Description": "<color=red>[15639]</color> Щит Форсюзера."
+  },
+  {
+    "ID": 15640,
+    "Name": "Клыки Забрака",
+    "Type": "Hat",
+    "Rarity": "Mythical",
+    "Description": null
+  },
+  {
+    "ID": 15641,
+    "Name": "Шлем Клона BARC 41-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15642,
+    "Name": "Шлем Клона BARC 104-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15643,
+    "Name": "Шлем Клона BARC 212-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15644,
+    "Name": "Шлем Клона BARC 327-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15645,
+    "Name": "Шлем Клона BARC 501-го легиона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15646,
+    "Name": "Шлем Клона BARC",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Шлем Клона BARC."
+  },
+  {
+    "ID": 15647,
+    "Name": "Шлем Клона BARC RSB",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15648,
+    "Name": "Шлем Клона BARC 145-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15649,
+    "Name": "Шлем Клона BARC 502-го легиона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15650,
+    "Name": "Шлем Клона 502-го легиона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15651,
+    "Name": "Шлем Клона Разведчика 502-го легиона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15652,
+    "Name": "Шлем Клона Десантника 502-го легиона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15653,
+    "Name": "Шлем Клона Пилота 502-го легиона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15654,
+    "Name": "Броня Клона 502-ого легиона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15655,
+    "Name": "Броня Клона 502-ого легиона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15656,
+    "Name": "Нагрудник Бойца Клона 502-го легиона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Бойца Клона 502-го легиона."
+  },
+  {
+    "ID": 15657,
+    "Name": "Нагрудник Офицера Клона 502-го легиона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Офицера Клона 502-го легиона."
+  },
+  {
+    "ID": 15658,
+    "Name": "Нагрудник ARC Клона 502-го легиона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник ARC Клона 502-го легиона."
+  },
+  {
+    "ID": 15659,
+    "Name": "Шлем Клона Инструктора BARC",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15660,
+    "Name": "Грави-каталка",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Description": "Грави-каталка."
+  },
+  {
+    "ID": 15661,
+    "Name": "Шлем Клона BARC 145-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15662,
+    "Name": "Шлем Клона BARC 145-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15663,
+    "Name": "Визор Клона (на ножке) 145-го батальона",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор Клона (на ножке) 145-го батальона."
+  },
+  {
+    "ID": 15664,
+    "Name": "Визор Клона (плоский) 145-го батальона",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор Клона (плоский) 145-го батальона."
+  },
+  {
+    "ID": 15665,
+    "Name": "Нагрудник Клона 145-ой роты",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона 145-ой роты."
+  },
+  {
+    "ID": 15666,
+    "Name": "Наплечник 145-ой роты ARC",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Наплечник 145-ой роты ARC."
+  },
+  {
+    "ID": 15667,
+    "Name": "Баррикада AAT",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Description": "Баррикада ATT."
+  },
+  {
+    "ID": 15668,
+    "Name": "Орудие ААТ",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Орудие ААТ"
+  },
+  {
+    "ID": 15669,
+    "Name": "Снаряд для орудия AAT",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Снаряд для орудия AAT."
+  },
+  {
+    "ID": 15670,
+    "Name": "Фронтовые бластеры AAT",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Фронтовые бластеры AAT"
+  },
+  {
+    "ID": 15671,
+    "Name": "Магазин для бластеров AAT",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Магазин для бластеров AAT."
+  },
+  {
+    "ID": 15672,
+    "Name": "Силовая тюремная дверь",
+    "Type": "Barricade",
+    "Rarity": "Epic",
+    "Description": "Силовая тюремная дверь."
+  },
+  {
+    "ID": 15673,
+    "Name": "Гермодвери",
+    "Type": "Barricade",
+    "Rarity": "Epic",
+    "Description": "Гермодвери."
+  },
+  {
+    "ID": 15674,
+    "Name": "Доска Направления",
+    "Type": "Barricade",
+    "Rarity": null,
+    "Description": "чо те надо бля"
+  },
+  {
+    "ID": 15675,
+    "Name": "Доска Специализации",
+    "Type": "Barricade",
+    "Rarity": null,
+    "Description": "чо те надо бля"
+  },
+  {
+    "ID": 15676,
+    "Name": "Доска Иерархия",
+    "Type": "Barricade",
+    "Rarity": null,
+    "Description": "чо те надо бля"
+  },
+  {
+    "ID": 15677,
+    "Name": "Ящик с бинтами",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Description": "Ящик с бинтами."
+  },
+  {
+    "ID": 15678,
+    "Name": "Ящик с магазинами для DC-15a",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Description": "Ящик с магазинами для DC-15a."
+  },
+  {
+    "ID": 15679,
+    "Name": "Ящик с магазинами для DLT-20a",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Description": "Ящик с магазинами для DLT-20a."
+  },
+  {
+    "ID": 15680,
+    "Name": "Ящик с магазинами для E-5",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Description": "Ящик с магазинами для E-5"
+  },
+  {
+    "ID": 15681,
+    "Name": "10 бинтов",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "10 бинтов."
+  },
+  {
+    "ID": 15682,
+    "Name": "10 магазинов DC-15a",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "10 магазинов DC-15a."
+  },
+  {
+    "ID": 15683,
+    "Name": "10 магазинов DLT-20a",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "10 магазинов DLT-20a."
+  },
+  {
+    "ID": 15684,
+    "Name": "10 магазинов E-5",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "10 магазинов E-5."
+  },
+  {
+    "ID": 15685,
+    "Name": "Генератор Щита",
+    "Type": "Barricade",
+    "Rarity": "Legendary",
+    "Description": "Генератор Щита."
+  },
+  {
+    "ID": 15686,
+    "Name": "Гермодвери",
+    "Type": "Barricade",
+    "Rarity": "Epic",
+    "Description": "Гермодвери."
+  },
+  {
+    "ID": 15687,
+    "Name": "Шлем Клона Сержанта",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15688,
+    "Name": "Броня Клона Сержанта",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15689,
+    "Name": "Нагрудник Клона Сержанта",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона Сержанта."
+  },
+  {
+    "ID": 15690,
+    "Name": "Шлем Клона Лейтенанта",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15691,
+    "Name": "Броня Клона Лейтенанта",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15692,
+    "Name": "Нагрудник Клона Лейтенанта",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона Лейтенанта."
+  },
+  {
+    "ID": 15693,
+    "Name": "Шлем Клона Капитана",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15694,
+    "Name": "Броня Клона Капитана",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15695,
+    "Name": "Нагрудник Клона Капитана",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона Капитана."
+  },
+  {
+    "ID": 15696,
+    "Name": "Шлем Клона Коммандера",
+    "Type": "Hat",
+    "Rarity": "Mythical",
+    "Description": null
+  },
+  {
+    "ID": 15697,
+    "Name": "Броня Клона Коммандера",
+    "Type": "Shirt",
+    "Rarity": "Mythical",
+    "Description": null
+  },
+  {
+    "ID": 15698,
+    "Name": "Нагрудник Клона Коммандера",
+    "Type": "Vest",
+    "Rarity": "Mythical",
+    "Description": "Нагрудник Клона Коммандера."
+  },
+  {
+    "ID": 15699,
+    "Name": "Набор дроида BX",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "<color=red>[15562]</color> Набор дроида BX. Разбери и получи снаряжение!"
+  },
+  {
+    "ID": 15700,
+    "Name": "Шлем Клона RC",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15701,
+    "Name": "Шлем Клона RC",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15702,
+    "Name": "Броня Клона RC",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15703,
+    "Name": "Рюкзак Клона RC (специалист)",
+    "Type": "Backpack",
+    "Rarity": "Legendary",
+    "Description": "Рюкзак Клона RC (специалист)."
+  },
+  {
+    "ID": 15704,
+    "Name": "Рюкзак Клона RC (специалист)",
+    "Type": "Backpack",
+    "Rarity": "Legendary",
+    "Description": "Рюкзак Клона RC (специалист)."
+  },
+  {
+    "ID": 15705,
+    "Name": "Нагрудник Клона RC",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона RC."
+  },
+  {
+    "ID": 15706,
+    "Name": "Шлем Клона RC",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15707,
+    "Name": "Шлем Клона RC",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15708,
+    "Name": "Броня Клона RC",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15709,
+    "Name": "Рюкзак Клона RC (специалист)",
+    "Type": "Backpack",
+    "Rarity": "Legendary",
+    "Description": "Рюкзак Клона RC (специалист)."
+  },
+  {
+    "ID": 15710,
+    "Name": "Рюкзак Клона RC (специалист)",
+    "Type": "Backpack",
+    "Rarity": "Legendary",
+    "Description": "Рюкзак Клона RC (специалист)."
+  },
+  {
+    "ID": 15711,
+    "Name": "Нагрудник Клона RC",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона RC."
+  },
+  {
+    "ID": 15712,
+    "Name": "Шлем Клона RC Baki",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15713,
+    "Name": "Броня Клона RC Baki",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15714,
+    "Name": "Рюкзак Клона RC Baki",
+    "Type": "Backpack",
+    "Rarity": "Legendary",
+    "Description": "Рюкзак Клона RC Baki."
+  },
+  {
+    "ID": 15715,
+    "Name": "Нагрудник Клона RC Baki",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона RC Baki."
+  },
+  {
+    "ID": 15716,
+    "Name": "Нагрудник Клона RC Island",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона RC Island."
+  },
+  {
+    "ID": 15717,
+    "Name": "Шлем Клона RC Sigma",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15718,
+    "Name": "Броня Клона RC Sigma",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15719,
+    "Name": "Нагрудник Клона RC Sigma",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона RC Sigma."
+  },
+  {
+    "ID": 15720,
+    "Name": "Шлем Клона RC Imperial",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15721,
+    "Name": "Броня Клона RC Imperial",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15722,
+    "Name": "Нагрудник Клона RC Imperial",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона RC Imperial."
+  },
+  {
+    "ID": 15723,
+    "Name": "Шлем Клона RC Island",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15724,
+    "Name": "Дробовик Vanguard",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "Дробовик Vanguard."
+  },
+  {
+    "ID": 15725,
+    "Name": "Дробь для добровика Vanguard",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "Description": "Дробь для добровика Vanguard."
+  },
+  {
+    "ID": 15726,
+    "Name": "Поза \"Руки на бедрах\"",
+    "Type": "Cloud",
+    "Rarity": "Epic",
+    "Description": "Поза \"Руки на бедрах\"."
+  },
+  {
+    "ID": 15727,
+    "Name": "Сила Лечения",
+    "Type": "Medical",
+    "Rarity": "Mythical",
+    "Description": "Сила Лечения."
+  },
+  {
+    "ID": 15728,
+    "Name": "Снаряжение Курсанта (надевай на игрока)",
+    "Type": "Medical",
+    "Rarity": "Mythical",
+    "Description": "Снаряжение Курсанта (надевай на игрока)."
+  },
+  {
+    "ID": 15729,
+    "Name": "Баррикада Венатор",
+    "Type": "Barricade",
+    "Rarity": "Mythical",
+    "Description": "Баррикада Венатор."
+  },
+  {
+    "ID": 15730,
+    "Name": "Баррикада Щедрый Munificent",
+    "Type": "Barricade",
+    "Rarity": "Mythical",
+    "Description": "Баррикада Щедрый Munificent."
+  },
+  {
+    "ID": 15731,
+    "Name": "Удар Венатора",
+    "Type": "Throwable",
+    "Rarity": "Mythical",
+    "Description": "Удар Венатора"
+  },
+  {
+    "ID": 15732,
+    "Name": "Огнемет",
+    "Type": "Gun",
+    "Rarity": "Mythical",
+    "Description": "огнемет"
+  },
+  {
+    "ID": 15733,
+    "Name": "Бак для огнемета",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "Description": "Бак для огнемета"
+  },
+  {
+    "ID": 15734,
+    "Name": "Наручный передатчик клона (Рация)",
+    "Type": "Tool",
+    "Rarity": "Rare",
+    "Description": "[15734] Наручный передатчик клона (Рация)."
+  },
+  {
+    "ID": 15735,
+    "Name": "Шлем Клона RC Vokser",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15736,
+    "Name": "Броня Клона RC Vokser",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15737,
+    "Name": "Нагрудник Клона RC Vokser",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона RC Vokser."
+  },
+  {
+    "ID": 15738,
+    "Name": "Шлем ARC Bucher",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15739,
+    "Name": "Броня ARC Bucher",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15740,
+    "Name": "Нагрудник ARC Bucher",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник ARC Bucher."
+  },
+  {
+    "ID": 15741,
+    "Name": "Шлем Клона Фаза I Сержанта",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Шлем Клона Фаза I Сержанта."
+  },
+  {
+    "ID": 15742,
+    "Name": "Шлем Клона Фаза I Лейтенанта",
+    "Type": "Hat",
+    "Rarity": "Epic",
+    "Description": "Шлем Клона Фаза I Лейтенанта."
+  },
+  {
+    "ID": 15743,
+    "Name": "Шлем Клона Фаза I Капитана",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": "Шлем Клона Фаза I Капитана."
+  },
+  {
+    "ID": 15744,
+    "Name": "Шлем Клона Фаза I Коммандера",
+    "Type": "Hat",
+    "Rarity": "Mythical",
+    "Description": "Шлем Клона Фаза I Коммандера."
+  },
+  {
+    "ID": 15745,
+    "Name": "Шлем Клона Фаза I",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Шлем Клона Фаза I"
+  },
+  {
+    "ID": 15746,
+    "Name": "Сумка Клона Медика",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Сумка Клона Медика."
+  },
+  {
+    "ID": 15747,
+    "Name": "Броня ARC Healer",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня ARC Healer."
+  },
+  {
+    "ID": 15748,
+    "Name": "Нагрудник ARC Healer",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник ARC Healer."
+  },
+  {
+    "ID": 15749,
+    "Name": "Шлем Клона RC Sommer",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": "Шлем Клона RC Sommer."
+  },
+  {
+    "ID": 15750,
+    "Name": "Броня Клона RC Sommer",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15751,
+    "Name": "Нагрудник Клона RC Sommer",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона RC Sommer."
+  },
+  {
+    "ID": 15752,
+    "Name": "Бакта граната",
+    "Type": "Throwable",
+    "Rarity": "Mythical",
+    "Description": "Бакта гранта"
+  },
+  {
+    "ID": 15753,
+    "Name": "Броня ARC Клона Фаза I",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня ARC Клона Фаза I."
+  },
+  {
+    "ID": 15754,
+    "Name": "Броня ARC Сержанта Клона Фаза I",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня ARC Сержанта Клона Фаза I."
+  },
+  {
+    "ID": 15755,
+    "Name": "Броня ARC Лейтенанта Клона Фаза I",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня ARC Лейтенанта Клона Фаза I."
+  },
+  {
+    "ID": 15756,
+    "Name": "Броня ARC Капитана Клона Фаза I",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня ARC Капитана Клона Фаза I."
+  },
+  {
+    "ID": 15757,
+    "Name": "Броня ARC Коммандера Клона Фаза I",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня ARC Коммандера Клона Фаза I."
+  },
+  {
+    "ID": 15758,
+    "Name": "Шлем Клона RSB [Guard]",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Шлем Клона RSB [Guard]"
+  },
+  {
+    "ID": 15759,
+    "Name": "Нагрудник RSB [Guard]",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник RSB [Guard]."
+  },
+  {
+    "ID": 15760,
+    "Name": "Шлем Клона 91-го корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15761,
+    "Name": "Шлем Клона Разведчика 91-го корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15762,
+    "Name": "Шлем Клона BARC 91-го корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15763,
+    "Name": "Шлем Клона Десантника 91-го корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15764,
+    "Name": "Шлем Клона Пилота 91-го корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15765,
+    "Name": "Броня Клона 91-го корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15766,
+    "Name": "Броня Клона Десантника 91-го корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15767,
+    "Name": "Нагрудник 91-го корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник 91-го корпуса."
+  },
+  {
+    "ID": 15768,
+    "Name": "Нагрудник Клона KD 91-го корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона KD 91-го корпуса."
+  },
+  {
+    "ID": 15769,
+    "Name": "Нагрудник КМД 91-го корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник КМД 91-го корпуса."
+  },
+  {
+    "ID": 15770,
+    "Name": "Наручный передатчик клона (Шлем)",
+    "Type": "Tool",
+    "Rarity": "Rare",
+    "Description": "[15770] Наручный передатчик клона (Шлем)."
+  },
+  {
+    "ID": 15771,
+    "Name": "Броня Клона RSB [Guard]",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15772,
+    "Name": "Шлем Клона Coruscant Guard",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Шлем Клона Coruscant Guard"
+  },
+  {
+    "ID": 15773,
+    "Name": "Броня Клона Coruscant Guard",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15774,
+    "Name": "Нагрудник Coruscant Guard",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Coruscant Guard."
+  },
+  {
+    "ID": 15775,
+    "Name": "Наручный передатчик клона (Рука)",
+    "Type": "Tool",
+    "Rarity": "Rare",
+    "Description": "[15775] Наручный передатчик клона (Рука)."
+  },
+  {
+    "ID": 15776,
+    "Name": "Дроид R3 Темно синий",
+    "Type": "Shirt",
+    "Rarity": "Mythical",
+    "Description": null
+  },
+  {
+    "ID": 15777,
+    "Name": "Дроид R3 Темно желтый",
+    "Type": "Shirt",
+    "Rarity": "Mythical",
+    "Description": null
+  },
+  {
+    "ID": 15778,
+    "Name": "Синий кристалл",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "Синий кристалл."
+  },
+  {
+    "ID": 15779,
+    "Name": "Зеленый кристалл",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "Зеленый кристалл."
+  },
+  {
+    "ID": 15780,
+    "Name": "Фиолетовый кристалл",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "Фиолетовый кристалл."
+  },
+  {
+    "ID": 15781,
+    "Name": "Красный кристалл",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "красный кристалл."
+  },
+  {
+    "ID": 15782,
+    "Name": "Желтый кристалл",
+    "Type": "Supply",
+    "Rarity": null,
+    "Description": "Желтый кристалл."
+  },
+  {
+    "ID": 15783,
+    "Name": "NT-242",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "NT-242."
+  },
+  {
+    "ID": 15784,
+    "Name": "Прицел NT-242",
+    "Type": "Sight",
+    "Rarity": "Legendary",
+    "Description": "Прицел NT-242."
+  },
+  {
+    "ID": 15785,
+    "Name": "Магазин NT-242",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "Description": "<color=red>[15785]</color> Магазин NT-242."
+  },
+  {
+    "ID": 15786,
+    "Name": "Наплечники OFC 2-ого лётного корпуса",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Наплечники OFC 2-ого лётного корпуса."
+  },
+  {
+    "ID": 15787,
+    "Name": "Броня Клона с камой 2-ого лётного корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня Клона с камой 2-ого лётного корпуса."
+  },
+  {
+    "ID": 15788,
+    "Name": "Наплечники OFC 41-ого корпуса",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Наплечники OFC 41-ого корпуса."
+  },
+  {
+    "ID": 15789,
+    "Name": "Броня Клона с камой 41-ого корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня Клона с камой 41-ого корпуса."
+  },
+  {
+    "ID": 15790,
+    "Name": "Наплечники OFC 91-ого корпуса",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Наплечники OFC 91-ого корпуса."
+  },
+  {
+    "ID": 15791,
+    "Name": "Броня Клона с камой 91-ого корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня Клона с камой 91-ого корпуса."
+  },
+  {
+    "ID": 15792,
+    "Name": "Наплечники OFC 104-го батальона",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Наплечники OFC 104-го батальона."
+  },
+  {
+    "ID": 15793,
+    "Name": "Броня Клона с камой 91-ого корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня Клона с камой 91-ого корпуса."
+  },
+  {
+    "ID": 15794,
+    "Name": "Наплечники OFC 145-го батальона",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Наплечники OFC 145-го батальона."
+  },
+  {
+    "ID": 15795,
+    "Name": "Наплечники OFC 212-го батальона",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Наплечники OFC 212-го батальона."
+  },
+  {
+    "ID": 15796,
+    "Name": "Броня Клона с камой 212-го батальона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня Клона с камой 91-ого корпуса."
+  },
+  {
+    "ID": 15797,
+    "Name": "Наплечники OFC 327-го корпуса",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Наплечники OFC 327-го корпуса."
+  },
+  {
+    "ID": 15798,
+    "Name": "Броня Клона с камой 327-го корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня Клона с камой 327-го корпуса."
+  },
+  {
+    "ID": 15799,
+    "Name": "Наплечники OFC 501-го легиона",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Наплечники OFC 501-го легиона."
+  },
+  {
+    "ID": 15800,
+    "Name": "Броня Клона с камой 501-го легиона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня Клона с камой 501-го легиона."
+  },
+  {
+    "ID": 15801,
+    "Name": "Наплечники OFC RSB",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Наплечники OFC RSB."
+  },
+  {
+    "ID": 15802,
+    "Name": "Броня Клона с камой RSB",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня Клона с камой RSB."
+  },
+  {
+    "ID": 15803,
+    "Name": "Доска для текста",
+    "Type": "Barricade",
+    "Rarity": null,
+    "Description": "Доска для текста."
+  },
+  {
+    "ID": 15804,
+    "Name": "Шлем ARC Healer",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": "Шлем ARC Healer."
+  },
+  {
+    "ID": 15805,
+    "Name": "DC-17 Taser",
+    "Type": "Gun",
+    "Rarity": "Uncommon",
+    "Description": "DC-17 Taser."
+  },
+  {
+    "ID": 15806,
+    "Name": "DC-17 Taser Magazine",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "Description": "DC-17 Taser Magazine."
+  },
+  {
+    "ID": 15807,
+    "Name": "Оглушающая граната",
+    "Type": "Throwable",
+    "Rarity": "Legendary",
+    "Description": "Оглушающая граната. "
+  },
+  {
+    "ID": 15808,
+    "Name": "Шлем Клона Jackson",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Шлем Клона Jackson"
+  },
+  {
+    "ID": 15809,
+    "Name": "Броня Клона Jackson",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня Клона Jackson."
+  },
+  {
+    "ID": 15809,
+    "Name": "[SW] Казарма 1",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15810,
+    "Name": "Нагрудник Клона Jackson",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона Jackson."
+  },
+  {
+    "ID": 15811,
+    "Name": "Шлем Клона Zoks",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Шлем Клона Zoks"
+  },
+  {
+    "ID": 15812,
+    "Name": "Броня Клона Zoks",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня Клона Zoks."
+  },
+  {
+    "ID": 15813,
+    "Name": "Нагрудник Клона Zoks",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона Zoks."
+  },
+  {
+    "ID": 15814,
+    "Name": "Шлем Клона Garou",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Шлем Клона Garou."
+  },
+  {
+    "ID": 15815,
+    "Name": "Броня Клона Garou",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня Клона Garou."
+  },
+  {
+    "ID": 15816,
+    "Name": "Нагрудник Клона Garou",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона Garou."
+  },
+  {
+    "ID": 15817,
+    "Name": "Шлем Клона Barkas",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Шлем Клона Barkas."
+  },
+  {
+    "ID": 15818,
+    "Name": "Броня Клона Barkas",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня Клона Barkas."
+  },
+  {
+    "ID": 15819,
+    "Name": "Нагрудник Клона Barkas",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона Barkas."
+  },
+  {
+    "ID": 15820,
+    "Name": "Шлем Клона RC Taron",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": "Шлем Клона RC Taron."
+  },
+  {
+    "ID": 15821,
+    "Name": "Броня Клона RC Taron",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Шлем Клона RC Taron."
+  },
+  {
+    "ID": 15822,
+    "Name": "Нагрудник Клона RC Taron",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона RC Taron."
+  },
+  {
+    "ID": 15823,
+    "Name": "Джетпак Ори",
+    "Type": "Backpack",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15824,
+    "Name": "Штаны Ори",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15825,
+    "Name": "Шлем Ори",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": null
+  },
+  {
+    "ID": 15826,
+    "Name": "Дальномер Ори",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 15827,
+    "Name": "Куртка Ори",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15828,
+    "Name": "Бронежилет Ори",
+    "Type": "Vest",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15829,
+    "Name": "Плащ Khalifa Azadi",
+    "Type": "Backpack",
+    "Rarity": null,
+    "Description": "Плащ Khalifa Azadi."
+  },
+  {
+    "ID": 15830,
+    "Name": "Штаны Khalifa Azadi",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Штаны Khalifa Azadi."
+  },
+  {
+    "ID": 15831,
+    "Name": "Шлем Khalifa Azadi",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "Шлем Khalifa Azadi."
+  },
+  {
+    "ID": 15832,
+    "Name": "Платье Khalifa Azadi",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Платье Khalifa Azadi."
+  },
+  {
+    "ID": 15833,
+    "Name": "Жилет Khalifa Azadi",
+    "Type": "Vest",
+    "Rarity": null,
+    "Description": "Жилет Khalifa Azadi."
+  },
+  {
+    "ID": 15835,
+    "Name": "Шлем ARC Ghille Gans",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15836,
+    "Name": "Броня ARC Ghille Gans SV",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня ARC Ghille Gans SV."
+  },
+  {
+    "ID": 15837,
+    "Name": "Маска ARC Ghille Gans SV",
+    "Type": "Mask",
+    "Rarity": "Epic",
+    "Description": "Маска ARC Ghille Gans SV."
+  },
+  {
+    "ID": 15838,
+    "Name": "Нагрудник ARC Ghille Gans SV",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник ARC Ghille Gans SV."
+  },
+  {
+    "ID": 15839,
+    "Name": "Броня ARC Ghille Gans W",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15840,
+    "Name": "Маска ARC Ghille Gans W",
+    "Type": "Mask",
+    "Rarity": "Epic",
+    "Description": "Маска ARC Ghille Gans W."
+  },
+  {
+    "ID": 15841,
+    "Name": "Нагрудник ARC Ghille Gans W",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник ARC Ghille Gans W."
+  },
+  {
+    "ID": 15842,
+    "Name": "Наплечники OFC 21-ого корпуса",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Наплечники OFC 21-ого корпуса."
+  },
+  {
+    "ID": 15843,
+    "Name": "Шлем Клона 21-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15844,
+    "Name": "Шлем Клона Разведчика 21-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15845,
+    "Name": "Шлем Клона BARC 21-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15846,
+    "Name": "Шлем Клона Десантника 21-го корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15847,
+    "Name": "Шлем Клона Пилота 21-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15848,
+    "Name": "Шлем Клона 21-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15849,
+    "Name": "Броня Клона 21-ого корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15850,
+    "Name": "Броня с камой Клона 21-ого корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15851,
+    "Name": "Броня Клона Термическая 21-ого корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15852,
+    "Name": "Нагрудник Клона 21-ого корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона 21-ого корпуса."
+  },
+  {
+    "ID": 15853,
+    "Name": "Нагрудник Клона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Клона"
+  },
+  {
+    "ID": 15854,
+    "Name": "Нагрудник Клона КМД 21-ого корпуса",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник КМД 21-ого корпуса."
+  },
+  {
+    "ID": 15855,
+    "Name": "Шлем Клона 91-ого корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15856,
+    "Name": "Броня Клона Термическая 91-ого корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15857,
+    "Name": "Шлем Клона 104-го батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15858,
+    "Name": "Броня Клона Термическая ",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15859,
+    "Name": "Шлем Клона 212-го батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15860,
+    "Name": "Броня Клона Термическая 212-го батальона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15861,
+    "Name": "Шлем Клона 327-го корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15862,
+    "Name": "Броня Клона Термическая 327-го корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15863,
+    "Name": "Шлем Клона 501-го легиона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15864,
+    "Name": "Броня Клона Термическая 501-го легиона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15865,
+    "Name": "Шлем Клона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15866,
+    "Name": "Броня Клона Термическая ",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15867,
+    "Name": "Шлем Клона Разведчика 91-го корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15868,
+    "Name": "Броня Клона 91-го корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15869,
+    "Name": "Пистолет Хиллера",
+    "Type": "Gun",
+    "Rarity": "Uncommon",
+    "Description": "Пистолет Хиллера."
+  },
+  {
+    "ID": 15870,
+    "Name": "Выстрел для пистолета Хиллера",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "Description": "Выстрел для пистолета Хиллера."
+  },
+  {
+    "ID": 15871,
+    "Name": "Шлем Клона ARC Babai",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15872,
+    "Name": "Шлем Клона ARC 91-го корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15873,
+    "Name": "Шлем Клона Пилота 91-го корпуса",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15874,
+    "Name": "Броня Клона 91-го корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15875,
+    "Name": "RPS-6",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "RPS-6."
+  },
+  {
+    "ID": 15876,
+    "Name": "RPS-6 Rocket",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "RPS-6 Rocket."
+  },
+  {
+    "ID": 15877,
+    "Name": "Учебная палка",
+    "Type": "Melee",
+    "Rarity": null,
+    "Description": "Все Великие Мастера начали с подобного."
+  },
+  {
+    "ID": 15878,
+    "Name": "Броня Клона Grenadier 91-го корпуса",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня Клона Grenadier 91-го корпуса."
+  },
+  {
+    "ID": 15879,
+    "Name": "Наплечники OFC 66-го полка",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Наплечники OFC 66-го полка."
+  },
+  {
+    "ID": 15880,
+    "Name": "Шлем Клона 66-го полка",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15881,
+    "Name": "Шлем Клона OFC 66-го полка",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15882,
+    "Name": "Шлем Клона Разведчика 66-го полка",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15883,
+    "Name": "Шлем Клона BARC 66-го полка",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15884,
+    "Name": "Шлем Клона Десантника 66-го полка",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15885,
+    "Name": "Шлем Клона Пилота 66-го полка",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15886,
+    "Name": "Шлем Клона Термальный 66-го полка",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15887,
+    "Name": "Броня Клона 66-го полка",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15888,
+    "Name": "Броня Клона с камой 66-го полка",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Броня Клона с камой 66-го полка."
+  },
+  {
+    "ID": 15889,
+    "Name": "Броня Клона Десантника 66-го полка",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15890,
+    "Name": "Броня Клона Термическая 66-го полка",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15891,
+    "Name": "Нагрудник 66-го полка",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник 66-го полка."
+  },
+  {
+    "ID": 15892,
+    "Name": "Нагрудник 66-го полка",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник 66-го полка."
+  },
+  {
+    "ID": 15893,
+    "Name": "Нагрудник КМД 66-го полка",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник КМД 66-го полка."
+  },
+  {
+    "ID": 15894,
+    "Name": "Рюкзак Клона Медика 66-го полка",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Рюкзак Клона Медика 66-го полка."
+  },
+  {
+    "ID": 15895,
+    "Name": "Шлем Клона OFC 66-го полка",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Шлем Клона OFC 66-го полка."
+  },
+  {
+    "ID": 15896,
+    "Name": "Шлем Клона 66-го полка",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15897,
+    "Name": "Броня Клона ADV 66-го полка",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15898,
+    "Name": "Броня Клона ADV 66-го полка",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15899,
+    "Name": "Нагрудник ADV 66-го полка",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник ADV 66-го полка."
+  },
+  {
+    "ID": 15900,
+    "Name": "Нагрудник OFC 66-го полка",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник OFC 66-го полка."
+  },
+  {
+    "ID": 15901,
+    "Name": "Рюкзак Клона 91-го корпуса",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Рюкзак Клона 91-го корпуса."
+  },
+  {
+    "ID": 15902,
+    "Name": "Рюкзак Клона Медика 91-го корпуса",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Рюкзак Клона Медика 91-го корпуса."
+  },
+  {
+    "ID": 15902,
+    "Name": "[Гулька|STARIRON] Объект \"Акламатор в воздухе\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15903,
+    "Name": "Рюкзак Клона Радиста 91-го корпуса",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Рюкзак Клона Радиста 91-го корпуса."
+  },
+  {
+    "ID": 15903,
+    "Name": "[Гулька|STARIRON] Объект \"Храм Джедаев\"",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15904,
+    "Name": "Рюкзак Клона Медика 21-го корпуса",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Рюкзак Клона Медика 21-го корпуса."
+  },
+  {
+    "ID": 15905,
+    "Name": "Рюкзак Клона Радиста 21-го корпуса",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Рюкзак Клона Радиста 21-го корпуса."
+  },
+  {
+    "ID": 15906,
+    "Name": "Рюкзак Клона Медика 212-го батальона",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Рюкзак Клона Медика 212-го батальона"
+  },
+  {
+    "ID": 15907,
+    "Name": "Рюкзак Клона Радиста 212-го батальона",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Рюкзак Клона Радиста 212-го батальона."
+  },
+  {
+    "ID": 15908,
+    "Name": "Рюкзак Клона Медика 327-го корпуса",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Рюкзак Клона Медика 327-го корпуса"
+  },
+  {
+    "ID": 15909,
+    "Name": "Рюкзак Клона Радиста 327-го корпуса",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Рюкзак Клона Радиста 327-го корпуса."
+  },
+  {
+    "ID": 15910,
+    "Name": "[SW] Wall 1",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15910,
+    "Name": "Рюкзак Клона Медика 501-го легиона",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Рюкзак Клона Медика 501-го легиона"
+  },
+  {
+    "ID": 15911,
+    "Name": "Рюкзак Клона Радиста 501-го легиона",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Рюкзак Клона Радиста 501-го легиона."
+  },
+  {
+    "ID": 15911,
+    "Name": "[SW] Wall 2",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15912,
+    "Name": "[SW] Wall 3",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15912,
+    "Name": "Рюкзак Клона Медика",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Рюкзак Клона Медика."
+  },
+  {
+    "ID": 15913,
+    "Name": "[SW] Wall 4",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15913,
+    "Name": "Рюкзак Клона Радиста",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Рюкзак Клона Радиста."
+  },
+  {
+    "ID": 15914,
+    "Name": "[SW] Wall 5",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15914,
+    "Name": "Шлем ARC Metkiy",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15915,
+    "Name": "Броня ARC Metkiy",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15915,
+    "Name": "[SW] Wall 6",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15916,
+    "Name": "[SW] Wall 7",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15916,
+    "Name": "Нагрудник ARC Metkiy",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Нагрудник ARC Metkiy."
+  },
+  {
+    "ID": 15917,
+    "Name": "[SW] Wall 8",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15917,
+    "Name": "Визор ARC Metkiy",
+    "Type": "Glasses",
+    "Rarity": "Epic",
+    "Description": "Визор ARC Metkiy."
+  },
+  {
+    "ID": 15918,
+    "Name": "[SW] Wall 9",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 15918,
+    "Name": "Шлем Клона BARC 66-го полка",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15919,
+    "Name": "Шлем Клона Разведчика 212-ого батальона",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15920,
+    "Name": "Броня Клона Разведчика 212-ого батальона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15921,
+    "Name": "Броня Клона Разведчика OFC 212-ого батальона",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15922,
+    "Name": "Нагрудник Разведчика 212-ого батальона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Разведчика 212-ого батальона."
+  },
+  {
+    "ID": 15923,
+    "Name": "Нагрудник Разведчика 212-ого батальона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Разведчика 212-ого батальона"
+  },
+  {
+    "ID": 15924,
+    "Name": "Нагрудник Разведчика OFC 212-ого батальона",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Разведчика OFC 212-ого батальона."
+  },
+  {
+    "ID": 15925,
+    "Name": "Шлем Клона Разведчика",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 15926,
+    "Name": "Броня Клона Разведчика",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15927,
+    "Name": "Броня Клона Разведчика OFC",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 15928,
+    "Name": "Нагрудник Разведчика",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Разведчика."
+  },
+  {
+    "ID": 15929,
+    "Name": "Нагрудник Разведчика",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Разведчика."
+  },
+  {
+    "ID": 15930,
+    "Name": "Нагрудник Разведчика OFC",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Нагрудник Разведчика OFC."
+  },
+  {
+    "ID": 25565,
+    "Name": "Boom_Yellow",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 25575,
+    "Name": "Boom_Blue",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 55600,
+    "Name": "Atomic Missile",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "Description": "Military grade <color=legendary>Atomic</color> missile."
+  },
+  {
+    "ID": 55601,
+    "Name": "Blast Missile",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "Description": "Military grade <color=legendary>Blast</color> missile."
+  },
+  {
+    "ID": 55602,
+    "Name": "Launch Device",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "A device powered by Ionic energy. It's the only known launcher able to Shoot an atomic missile."
+  }
+]

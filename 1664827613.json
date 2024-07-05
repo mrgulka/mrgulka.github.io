@@ -1,0 +1,3194 @@
+[
+  {
+    "ID": 200,
+    "Name": "Bomb_200",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 201,
+    "Name": "Bomb_201",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 202,
+    "Name": "Bomb_202",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 203,
+    "Name": "Bomb_203",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 501,
+    "Name": "Tracer_Blue",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 8340,
+    "Name": "Hans Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Bullet proof military gear."
+  },
+  {
+    "ID": 8444,
+    "Name": "Shadowstalker Mk. II Drum",
+    "Type": "Magazine",
+    "Rarity": "Mythical",
+    "Description": "Prototype grade <color=mythical>Shadowstalker Mk. II</color> ammunition."
+  },
+  {
+    "ID": 8445,
+    "Name": "Shadowstalker Mk. II Drum",
+    "Type": "Magazine",
+    "Rarity": "Mythical",
+    "Description": "Prototype grade <color=mythical>Shadowstalker Mk. II</color> ammunition."
+  },
+  {
+    "ID": 8447,
+    "Name": "Shadowstalker Mk. II Drum",
+    "Type": "Magazine",
+    "Rarity": "Mythical",
+    "Description": "Prototype grade <color=mythical>Shadowstalker Mk. II</color> ammunition."
+  },
+  {
+    "ID": 9603,
+    "Name": "E-11 Blaster",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "Standard Firearm of the Galactic Empire"
+  },
+  {
+    "ID": 9604,
+    "Name": "DH-17 Blaster",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "Firearm of Leia’s Consulate Crew"
+  },
+  {
+    "ID": 9605,
+    "Name": "Energy Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Energy Cell for your Energy Weapons"
+  },
+  {
+    "ID": 11006,
+    "Name": "Muzzle_5",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 11016,
+    "Name": "Muzzle_6",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 11019,
+    "Name": "Muzzle_7",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 11020,
+    "Name": "Muzzle_8",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 11021,
+    "Name": "Muzzle_9",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 11022,
+    "Name": "Muzzle_10",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 11028,
+    "Name": "DLT-19 Blaster",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "Standard Long Range Rifle of the Galactic Empire"
+  },
+  {
+    "ID": 13704,
+    "Name": "ThermalDetonatorEffect",
+    "Type": "Effect",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 26015,
+    "Name": "A280C",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "Standard Long Range Rifle of the Rebel Alliance"
+  },
+  {
+    "ID": 33000,
+    "Name": "TX-225 Combat Assault Tank",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 33001,
+    "Name": "Reconnaissance Troop Transporter",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 33002,
+    "Name": "X-34 Landspeeder",
+    "Type": "Vehicle",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 33003,
+    "Name": "Millenium Falcon",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 33004,
+    "Name": "Rebel Scout Speeder",
+    "Type": "Vehicle",
+    "Rarity": "Rare",
+    "Description": null
+  },
+  {
+    "ID": 33005,
+    "Name": "TIE Bomber",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33006,
+    "Name": "TIE Fighter",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33007,
+    "Name": "TIE Interceptor",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33008,
+    "Name": "X-wing",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 33009,
+    "Name": "X-wing",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 33010,
+    "Name": "Y-wing",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 33011,
+    "Name": "181st TIE Interceptor",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33012,
+    "Name": "74-Z speeder bike",
+    "Type": "Vehicle",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 33013,
+    "Name": "UT-60D U-wing starfighter",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33014,
+    "Name": "TIE Reaper",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33015,
+    "Name": "Slave 1",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33016,
+    "Name": "Jetpack Remote",
+    "Type": "Cloud",
+    "Rarity": "Uncommon",
+    "Description": "A small remote that controls your jetpack."
+  },
+  {
+    "ID": 33017,
+    "Name": "Jetpack Remote",
+    "Type": "Cloud",
+    "Rarity": "Uncommon",
+    "Description": "A small remote that controls your jetpack."
+  },
+  {
+    "ID": 33018,
+    "Name": "Phantom",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33019,
+    "Name": "Fang Fighter",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33020,
+    "Name": "TIE Defender",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33021,
+    "Name": "TIE Defender",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33022,
+    "Name": "TIE Defender",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33023,
+    "Name": "TIE Defender",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33024,
+    "Name": "TIE Defender",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33025,
+    "Name": "X-wing",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 33026,
+    "Name": "X-wing",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 33027,
+    "Name": "X-wing",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 33028,
+    "Name": "Auzituck anti-slaver gunship",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33029,
+    "Name": "Auzituck anti-slaver gunship",
+    "Type": "Vehicle",
+    "Rarity": "Epic",
+    "Description": null
+  },
+  {
+    "ID": 33030,
+    "Name": "Anti Air Turret",
+    "Type": "Vehicle",
+    "Rarity": "Legendary",
+    "Description": null
+  },
+  {
+    "ID": 33031,
+    "Name": "616-AvA Speeder Bike",
+    "Type": "Vehicle",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 33101,
+    "Name": "Luke Skywalker's Lightsaber",
+    "Type": "Melee",
+    "Rarity": "Mythical",
+    "Description": "A blue lightsaber wielded by Jedi Knight Luke Skywalker."
+  },
+  {
+    "ID": 33102,
+    "Name": "Obi Wan Kenobi's Lightsaber",
+    "Type": "Melee",
+    "Rarity": "Mythical",
+    "Description": "A blue lightsaber wielded by Jedi Knight Obi Wan Kenobi."
+  },
+  {
+    "ID": 33103,
+    "Name": "Darth Vader's Lightsaber",
+    "Type": "Melee",
+    "Rarity": "Mythical",
+    "Description": "A red lightsaber wielded by Sith Lord Darth Vader."
+  },
+  {
+    "ID": 33107,
+    "Name": "The Darksaber",
+    "Type": "Melee",
+    "Rarity": "Epic",
+    "Description": "An Ancient lightsaber, created by the first Mandalorian jedi. "
+  },
+  {
+    "ID": 33108,
+    "Name": "Darth Malgus' lightsaber",
+    "Type": "Melee",
+    "Rarity": "Epic",
+    "Description": "A red lightsaber created by Sith Lord Darth Malgus. "
+  },
+  {
+    "ID": 33109,
+    "Name": "Darth Bane's Lightsaber",
+    "Type": "Melee",
+    "Rarity": "Epic",
+    "Description": "A curved hilt lightsaber, containing a purple kyber crystal. "
+  },
+  {
+    "ID": 33110,
+    "Name": "Ezra's Lightsaber",
+    "Type": "Melee",
+    "Rarity": "Epic",
+    "Description": "Crafted out of spare parts by Ezra Bridger, it also doubles as a blaster. "
+  },
+  {
+    "ID": 33111,
+    "Name": "Durge's Lance",
+    "Type": "Melee",
+    "Rarity": "Epic",
+    "Description": "A large lance made from an unbreakable metal."
+  },
+  {
+    "ID": 33112,
+    "Name": "Ezra's Lightsaber",
+    "Type": "Melee",
+    "Rarity": "Epic",
+    "Description": "Crafted out of spare parts by Ezra Bridger, it also doubles as a blaster. "
+  },
+  {
+    "ID": 33113,
+    "Name": "Light Club",
+    "Type": "Melee",
+    "Rarity": "Epic",
+    "Description": "A massive lightsaber wielded by large force users.  "
+  },
+  {
+    "ID": 33118,
+    "Name": "Kanan Jarrus's Lightsaber",
+    "Type": "Melee",
+    "Rarity": "Legendary",
+    "Description": "A blue lightsaber wielded by Jedi Knight Kanan Jarrus."
+  },
+  {
+    "ID": 33200,
+    "Name": "Chewbaccas Head",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "The head of a wookie named Chewbacca. "
+  },
+  {
+    "ID": 33201,
+    "Name": "Granf Moff Hair",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "The stylish hair of a Grand Moff. "
+  },
+  {
+    "ID": 33202,
+    "Name": "Imperial Pilot Helmet",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "Standard issue helmet for Imperial Pilot."
+  },
+  {
+    "ID": 33203,
+    "Name": "Imperial Pilot Helmet",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "Standard issue helmet for Imperial Pilot."
+  },
+  {
+    "ID": 33204,
+    "Name": "Leia's Hair.",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "Princess Leia's hair, commonly mistaken for cinnabuns. "
+  },
+  {
+    "ID": 33205,
+    "Name": "Imperial Officer Cap",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "A cap worn by Imperial Officers."
+  },
+  {
+    "ID": 33206,
+    "Name": "Rebel Helmet",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Protecting you from blaster shots… kinda"
+  },
+  {
+    "ID": 33207,
+    "Name": "Rebel Pilot Helmet",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "Standard issue helmet for Rebel Pilots."
+  },
+  {
+    "ID": 33208,
+    "Name": "Rebel Pilot Helmet",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "Blue Squadrons helmet. "
+  },
+  {
+    "ID": 33209,
+    "Name": "Rebel Desert Helmet",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "Helmet used by rebel soldiers fighitng on Jakku or Tatooine."
+  },
+  {
+    "ID": 33210,
+    "Name": "Stormtrooper Helmet",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": "How the hell can anyone see out of this thing?"
+  },
+  {
+    "ID": 33211,
+    "Name": "Tar Vizsla's Helmet",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "An ancient Mandalorian Crusader helmet."
+  },
+  {
+    "ID": 33212,
+    "Name": "Vader’s Helmet",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": "Equipped with essential life support and breathing systems"
+  },
+  {
+    "ID": 33213,
+    "Name": "181st Imperial Pilot Helmet",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "A helmet worn by 181st Imperial Pilots."
+  },
+  {
+    "ID": 33214,
+    "Name": "Scout Trooper Helmet",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "A helmet worn by Imperial Sccout troopers."
+  },
+  {
+    "ID": 33215,
+    "Name": "Rebel Commando Mask",
+    "Type": "Mask",
+    "Rarity": null,
+    "Description": "Face cover for a Rebel Commando Unit, helpful for staying incognito."
+  },
+  {
+    "ID": 33216,
+    "Name": "Y-Wing Pilot Helmet",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "Helmet used by Rebel Y-Wing pilots."
+  },
+  {
+    "ID": 33217,
+    "Name": "Hero's Helmet",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": "A helmet for hero kits."
+  },
+  {
+    "ID": 33218,
+    "Name": "Shoretrooper Helmet",
+    "Type": "Hat",
+    "Rarity": null,
+    "Description": "A tan helmet worn by Costal defender stormtroopers. "
+  },
+  {
+    "ID": 33219,
+    "Name": "Bistans Head",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "How are you wearing this things head?"
+  },
+  {
+    "ID": 33220,
+    "Name": "Bistans Head",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "How are you wearing this things head?"
+  },
+  {
+    "ID": 33221,
+    "Name": "Rebel Scarif Helmet",
+    "Type": "Hat",
+    "Rarity": null,
+    "Description": "A sturdy helmet worn by the rebels on scarif."
+  },
+  {
+    "ID": 33222,
+    "Name": "Rebel Scarif Helmet",
+    "Type": "Hat",
+    "Rarity": null,
+    "Description": "A sturdy helmet worn by the rebels on scarif."
+  },
+  {
+    "ID": 33223,
+    "Name": "Rebel Scarif Helmet",
+    "Type": "Hat",
+    "Rarity": null,
+    "Description": "A sturdy helmet worn by the rebels on scarif."
+  },
+  {
+    "ID": 33225,
+    "Name": "Death Trooper Helmet",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "A black helmet equiped with nightvision worn by the Death Troopers. "
+  },
+  {
+    "ID": 33226,
+    "Name": "Death Trooper Nightvision",
+    "Type": "Glasses",
+    "Rarity": "Rare",
+    "Description": "Brightness enhancing military grade nightvision."
+  },
+  {
+    "ID": 33227,
+    "Name": "Darth Malgus' Mask",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "A piece of sith armor that acted as a rebreather, crafted by  Darth Malgus."
+  },
+  {
+    "ID": 33228,
+    "Name": "Darth Malgus' Mask",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "A piece of sith armor that acted as a rebreather, crafted by  Darth Malgus."
+  },
+  {
+    "ID": 33229,
+    "Name": "Ezra's Hair",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Shaggy blue hair. "
+  },
+  {
+    "ID": 33230,
+    "Name": "Inferno Squad Helmet",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "A helmet worn by members of Inferno Squadron. "
+  },
+  {
+    "ID": 33231,
+    "Name": "Boba Fett's Helmet",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "A traditional Mandalorian helmet worn by Boba Fett. "
+  },
+  {
+    "ID": 33232,
+    "Name": "Durge's Helmet",
+    "Type": "Hat",
+    "Rarity": "Epic",
+    "Description": "A strong helmet worn by the bounty hunter Durge."
+  },
+  {
+    "ID": 33233,
+    "Name": "Pre Vizsla's Helmet",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "A Mandalorian helmet worn by Pre Vizsla. "
+  },
+  {
+    "ID": 33234,
+    "Name": "Endor Rebel Commando Helmet",
+    "Type": "Hat",
+    "Rarity": null,
+    "Description": "Camouflage helmet worn by Rebel Commando's on Endor."
+  },
+  {
+    "ID": 33235,
+    "Name": "Rebel Goggles ",
+    "Type": "Glasses",
+    "Rarity": "Rare",
+    "Description": "Goggles equipped with nightvision, worn by rebel soldiers. "
+  },
+  {
+    "ID": 33236,
+    "Name": "Clan Wren Helmet",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "A Mandalorian helmet worn by members of Clan Wren."
+  },
+  {
+    "ID": 33237,
+    "Name": "Dark Wookie head",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "A dark furred Wookie head. "
+  },
+  {
+    "ID": 33238,
+    "Name": "Wookie Head",
+    "Type": "Hat",
+    "Rarity": "Uncommon",
+    "Description": "A generic Wookie head."
+  },
+  {
+    "ID": 33239,
+    "Name": "Jaster Mereel's Helmet",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "A Mandalorian helmet worn by Jaster Mereel. "
+  },
+  {
+    "ID": 33240,
+    "Name": "Darth Bane Helmet",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "An orbalisk helmet worn by Darth Bane. "
+  },
+  {
+    "ID": 33245,
+    "Name": "Kanan's Hair",
+    "Type": "Hat",
+    "Rarity": "Legendary",
+    "Description": "Long brown hair and a beard. "
+  },
+  {
+    "ID": 33246,
+    "Name": "Kanan's Mask",
+    "Type": "Mask",
+    "Rarity": "Legendary",
+    "Description": "A metalic visor worn by Jedi Knight Kanan Jarrus. "
+  },
+  {
+    "ID": 33300,
+    "Name": "Han Solo's Belt",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "The belt of a smuggler. "
+  },
+  {
+    "ID": 33301,
+    "Name": "Imperial Belt",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A black leather belt. "
+  },
+  {
+    "ID": 33302,
+    "Name": "Leia's Skirt",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A flowing white skirt. "
+  },
+  {
+    "ID": 33303,
+    "Name": "Luke Skywalker's Belt",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A leather belt."
+  },
+  {
+    "ID": 33304,
+    "Name": "Obi-Wan Kenobi's Belt",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A Jedi's belt."
+  },
+  {
+    "ID": 33305,
+    "Name": "Rebel Pilot Belt",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A belt worn by Rebel Pilots. "
+  },
+  {
+    "ID": 33306,
+    "Name": "Rebel Desert Backpack",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A large backpack worn by Rebel troops fighting on desert planets. "
+  },
+  {
+    "ID": 33307,
+    "Name": "Stormtrooper Commander pauldron",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "An orange pauldron worn by Stormtrooper commanders."
+  },
+  {
+    "ID": 33307,
+    "Name": "Storm Trooper Pauldron",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A pauldron worn by high ranking troopers. "
+  },
+  {
+    "ID": 33308,
+    "Name": "Darth Vader's Belt",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A black leather belt with life support controls attatched. "
+  },
+  {
+    "ID": 33309,
+    "Name": "Rebel Commando Cover",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "Leather cover worn by Rebel Commando Units."
+  },
+  {
+    "ID": 33310,
+    "Name": "Storm Trooper Pauldron",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A pauldron worn by high ranking troopers. "
+  },
+  {
+    "ID": 33311,
+    "Name": "Storm Trooper Pauldron",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A pauldron worn by high ranking troopers. "
+  },
+  {
+    "ID": 33312,
+    "Name": "Storm Trooper Pauldron",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A pauldron worn by high ranking troopers. "
+  },
+  {
+    "ID": 33313,
+    "Name": "Storm Trooper Pauldron",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A pauldron worn by high ranking troopers. "
+  },
+  {
+    "ID": 33314,
+    "Name": "Storm Trooper Pauldron",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A pauldron worn by high ranking troopers. "
+  },
+  {
+    "ID": 33315,
+    "Name": "Storm Trooper Pauldron",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A pauldron worn by high ranking troopers. "
+  },
+  {
+    "ID": 33316,
+    "Name": "Storm Trooper Pauldron",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A pauldron worn by high ranking troopers. "
+  },
+  {
+    "ID": 33317,
+    "Name": "Storm Trooper Pauldron",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A pauldron worn by high ranking troopers. "
+  },
+  {
+    "ID": 33318,
+    "Name": "Storm Trooper Pauldron",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A pauldron worn by high ranking troopers. "
+  },
+  {
+    "ID": 33319,
+    "Name": "Tar Vizsla's belt",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A ancient Jedi belt worn by Tar Vizsla. "
+  },
+  {
+    "ID": 33319,
+    "Name": "Squad Leader Skirt",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A black skirt worn by Shoretrooper squad leaders."
+  },
+  {
+    "ID": 33320,
+    "Name": "Death Trooper Chest Carrier",
+    "Type": "Backpack",
+    "Rarity": "Rare",
+    "Description": "A black chest carrier and pauldron worn by high ranking Death Troopers."
+  },
+  {
+    "ID": 33321,
+    "Name": "Rebel Scarif Belt",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A brown leather belt worn by Rebel soldiers on scarif. "
+  },
+  {
+    "ID": 33322,
+    "Name": "Rebel Jetpack",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A short-circuited jetpack."
+  },
+  {
+    "ID": 33323,
+    "Name": "R717 Refrigerant Tank",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A tank filled with R717 refrigerant used to cool the MWC-35c power cells. "
+  },
+  {
+    "ID": 33324,
+    "Name": "Jyn Erso's belt",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A leather belt worn by Jyn Erso. "
+  },
+  {
+    "ID": 33325,
+    "Name": "Anakin's robe",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A brown Jedi robe. "
+  },
+  {
+    "ID": 33326,
+    "Name": "Darth Malgus' Belt",
+    "Type": "Backpack",
+    "Rarity": "Rare",
+    "Description": "An ancient Sith belt worn by Darth Malgus."
+  },
+  {
+    "ID": 33327,
+    "Name": "Ezra's Backpack",
+    "Type": "Backpack",
+    "Rarity": "Rare",
+    "Description": "Who knows what he has in here. "
+  },
+  {
+    "ID": 33328,
+    "Name": "Boba's Jetpack",
+    "Type": "Backpack",
+    "Rarity": "Rare",
+    "Description": "A compact jetpack capable of small thrusts."
+  },
+  {
+    "ID": 33329,
+    "Name": "Durge's Jetpack",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A compact, rocket powered jetpack. "
+  },
+  {
+    "ID": 33330,
+    "Name": "Pre Vizsla's Jetpack",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A large jetpack worn by Pre Vizsla."
+  },
+  {
+    "ID": 33331,
+    "Name": "Jetpack",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A compact jetpack. "
+  },
+  {
+    "ID": 33332,
+    "Name": "Clan Wren Jetpack",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A Mandalorian jetpack worn by members of Clan Wren."
+  },
+  {
+    "ID": 33333,
+    "Name": "Jaster's Cape",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A tattered red cape. "
+  },
+  {
+    "ID": 33334,
+    "Name": "Jaster's Jetpack",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A compact jetpack."
+  },
+  {
+    "ID": 33335,
+    "Name": "Darth Banes Cape",
+    "Type": "Backpack",
+    "Rarity": "Epic",
+    "Description": "A flowing black cape. "
+  },
+  {
+    "ID": 33400,
+    "Name": "Chewbaccas Bandolier",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A large leather utility belt worn on the shoulder. "
+  },
+  {
+    "ID": 33401,
+    "Name": "Hans Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Bullet proof military gear."
+  },
+  {
+    "ID": 33402,
+    "Name": "Imperial Pilot Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A vest worn by Imperial Pilots. "
+  },
+  {
+    "ID": 33403,
+    "Name": "Hans Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Bullet proof military gear."
+  },
+  {
+    "ID": 33404,
+    "Name": "Obi Wans Robe",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A tattered old jedi robe."
+  },
+  {
+    "ID": 33405,
+    "Name": "Hans Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Bullet proof military gear."
+  },
+  {
+    "ID": 33406,
+    "Name": "Rebel Pilot Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A vest worn by Rebel Pilots."
+  },
+  {
+    "ID": 33407,
+    "Name": "Rebel Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Vest worn by Rebel crew members."
+  },
+  {
+    "ID": 33408,
+    "Name": "Stormtrooper Armor",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Good at deflecting glancing hits, but a blast head on will still take you down!"
+  },
+  {
+    "ID": 33409,
+    "Name": "Tar Vizla's Armor",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "An ancient set of Mandalorian armor. "
+  },
+  {
+    "ID": 33410,
+    "Name": "Darth Vaders Armor",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Sith armor and a crude life support system. "
+  },
+  {
+    "ID": 33411,
+    "Name": "Captain Rank Pin",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Rank pin of a Rebel Captain"
+  },
+  {
+    "ID": 33412,
+    "Name": "Midshipman Rank Pin",
+    "Type": "Vest",
+    "Rarity": "Uncommon",
+    "Description": "Rank pin of a Rebel Midshipman"
+  },
+  {
+    "ID": 33413,
+    "Name": "Sub-Lieutenant Rank Pin",
+    "Type": "Vest",
+    "Rarity": "Uncommon",
+    "Description": "Rank pin of a Rebel Sub-Lieutenant"
+  },
+  {
+    "ID": 33414,
+    "Name": "Lieutenant Rank Pin",
+    "Type": "Vest",
+    "Rarity": "Uncommon",
+    "Description": "Rank pin of a Rebel Lieutenant"
+  },
+  {
+    "ID": 33415,
+    "Name": "Lieutenant Commander Rank Pin",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Rank pin of a Rebel Lieutenant Commander"
+  },
+  {
+    "ID": 33416,
+    "Name": "Commander Rank Pin",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Rank pin of a Rebel Commander"
+  },
+  {
+    "ID": 33417,
+    "Name": "Commodore Rank Pin",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Description": "Rank pin of a Rebel Commodore"
+  },
+  {
+    "ID": 33418,
+    "Name": "Rear Admiral Rank Pin",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Description": "Rank pin of a Rebel Rear Admiral"
+  },
+  {
+    "ID": 33419,
+    "Name": "Vice Admiral Rank Pin",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Description": "Rank pin of a Rebel Vice Admiral"
+  },
+  {
+    "ID": 33420,
+    "Name": "Admiral Rank Pin",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Rank pin of a Rebel Admiral"
+  },
+  {
+    "ID": 33421,
+    "Name": "Fleet Admiral Rank Pin",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Rank pin of a Rebel Fleet Admiral"
+  },
+  {
+    "ID": 33422,
+    "Name": "High Admiral Rank Pin",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Rank pin of a Rebel High Admiral"
+  },
+  {
+    "ID": 33423,
+    "Name": "Grand Moff Rank Insignia",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Rank Insignia of a Grand Moff of the Empire"
+  },
+  {
+    "ID": 33424,
+    "Name": "High General Rank Insignia",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Rank Insignia of a High General of the Imperial Army"
+  },
+  {
+    "ID": 33425,
+    "Name": "General Rank Insignia",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Rank Insignia of a General in the Imperial Army"
+  },
+  {
+    "ID": 33426,
+    "Name": "Major General Rank Insignia",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Rank Insignia of a Major General of the Imperial Army"
+  },
+  {
+    "ID": 33427,
+    "Name": "High Colonel Rank Insignia",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Description": "Rank Insignia of a High Colonel in the Imperial Army"
+  },
+  {
+    "ID": 33428,
+    "Name": "Colonel Rank Insignia",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Description": "Rank Insignia of a Colonel in the Imperial Army"
+  },
+  {
+    "ID": 33429,
+    "Name": "Lieutenant Colonel Rank Insignia",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Description": "Rank Insignia of a Lieutenant Colonel in the Imperial Army"
+  },
+  {
+    "ID": 33430,
+    "Name": "Major Rank Insignia",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Description": "Rank Insignia of a Major in the Imperial Army"
+  },
+  {
+    "ID": 33431,
+    "Name": "Captain Rank Insignia",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Description": "Rank Insignia of a Captain in the Imperial Army"
+  },
+  {
+    "ID": 33432,
+    "Name": "Lieutenant Rank Insignia",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Description": "Rank Insignia of a Lieutenant in the Imperial Army"
+  },
+  {
+    "ID": 33433,
+    "Name": "Second Lieutenant Rank Insignia",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Description": "Rank Insignia of a Second Lieutenant in the Imperial Army"
+  },
+  {
+    "ID": 33434,
+    "Name": "Brigadier Rank Insignia",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Description": "Rank Insignia of a Brigadier in the Imperial Army"
+  },
+  {
+    "ID": 33435,
+    "Name": "Master Sergeant Insignia",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Rank Insignia of a Master Sergeant in the Imperial Army"
+  },
+  {
+    "ID": 33436,
+    "Name": "Staff Sergeant Insignia",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Rank Insignia of a Staff Sergeant in the Imperial Army"
+  },
+  {
+    "ID": 33437,
+    "Name": "Sergeant Insignia",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Rank Insignia of a Sergeant in the Imperial Army"
+  },
+  {
+    "ID": 33438,
+    "Name": "Corporal Insignia",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Rank Insignia of a Corporal in the Imperial Army"
+  },
+  {
+    "ID": 33439,
+    "Name": "Lance Corporal Insignia",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Rank Insignia of a Lance Corporal in the Imperial Army"
+  },
+  {
+    "ID": 33440,
+    "Name": "Private Insignia",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Rank Insignia of a Private in the Imperial Army"
+  },
+  {
+    "ID": 33441,
+    "Name": "Surface Marshal Rank Insignia",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "Rank Insignia of a Surface Marshal of the Imperial Army"
+  },
+  {
+    "ID": 33442,
+    "Name": "Scout Trooper Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A lightweight vest worn by Scout troopers. "
+  },
+  {
+    "ID": 33445,
+    "Name": "Rebel Commando Chest Carrier",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Heavy duty chest carrier used by the elite Rebel Commando Units."
+  },
+  {
+    "ID": 33446,
+    "Name": "Rebel Y-Wing Pilot Flight Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Flight Vest used by Y-Wing Pilots of the Rebel Alliance."
+  },
+  {
+    "ID": 33447,
+    "Name": "Hero Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A vest for hero kits.  "
+  },
+  {
+    "ID": 33448,
+    "Name": "Death Trooper armor",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Strong, black armor worn by the Death Troopers. "
+  },
+  {
+    "ID": 33449,
+    "Name": "Bistan's Harness",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A harness attatched to his spacesuit. "
+  },
+  {
+    "ID": 33450,
+    "Name": "Rebel Scarif Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A black vest worn by Rebel troops on Scarif."
+  },
+  {
+    "ID": 33451,
+    "Name": "Baze's Armor",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Tough, reflective armor worn by Baze Malbus. "
+  },
+  {
+    "ID": 33452,
+    "Name": "Shoretrooper Squad Commander Armor",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A sturdy set of armor worn by Shoretrooper squad commanders."
+  },
+  {
+    "ID": 33453,
+    "Name": "Shoretrooper Armor",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A sturdy set of armor worn by Shoretroopers."
+  },
+  {
+    "ID": 33454,
+    "Name": "Jyn's Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A tattered vest worn by Jyn Erso."
+  },
+  {
+    "ID": 33455,
+    "Name": "Krennic's Cape",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A flowing white cape worn by Orson Krennic."
+  },
+  {
+    "ID": 33456,
+    "Name": "Shoretrooper Captain Armor",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A sturdy set of armor worn by Shoretroopers captains."
+  },
+  {
+    "ID": 33457,
+    "Name": "Anakin's Belt",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A Jedi belt worn by Anakin Skywalker. "
+  },
+  {
+    "ID": 33458,
+    "Name": "Anakin's Belt",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A Jedi belt worn by Anakin Skywalker. "
+  },
+  {
+    "ID": 33459,
+    "Name": "Darth Malgus' Armor",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Ancient Sith armor worn by Darth Malgus."
+  },
+  {
+    "ID": 33460,
+    "Name": "Ezra's Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A tattered canvas vest worn by Ezra Bridger. "
+  },
+  {
+    "ID": 33461,
+    "Name": "Inferno Squad Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Adapative combat armor worn by Inferno Squad."
+  },
+  {
+    "ID": 33462,
+    "Name": "Boba Fett's Armor",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Mandalorian armor made out of durasteel."
+  },
+  {
+    "ID": 33463,
+    "Name": "Durge's Armor",
+    "Type": "Vest",
+    "Rarity": "Epic",
+    "Description": "A heavy set of armor worn by Durge. "
+  },
+  {
+    "ID": 33464,
+    "Name": "Pre Vizsla's Armor",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Traditional Mandalorian armor made out of durasteel. "
+  },
+  {
+    "ID": 33465,
+    "Name": "Clan Wren Armor",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Mandalorian armor worn by members of Clan Wren."
+  },
+  {
+    "ID": 33466,
+    "Name": "Wookie Chest Carrier",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A golden chest carrier worn by a large Wookie. "
+  },
+  {
+    "ID": 33467,
+    "Name": "Wookie Vest",
+    "Type": "Vest",
+    "Rarity": "Uncommon",
+    "Description": "Wookie Fur."
+  },
+  {
+    "ID": 33468,
+    "Name": "Jaster's Armor",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Traditional Mandalorian armor made out of Beskar iron. "
+  },
+  {
+    "ID": 33469,
+    "Name": "Darth Banes Armor",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "A set of armor made out of Orbalisks."
+  },
+  {
+    "ID": 33474,
+    "Name": "Kanan's Belt",
+    "Type": "Vest",
+    "Rarity": "Legendary",
+    "Description": "A black belt worn by Jedi Knight Kanan Jarrus. "
+  },
+  {
+    "ID": 33500,
+    "Name": "Blue Squadron Bottoms",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Worn by the crew of Blue Squadron, an X-Wing fighter squad."
+  },
+  {
+    "ID": 33501,
+    "Name": "Chewbacca's Bottom",
+    "Type": "Pants",
+    "Rarity": "Legendary",
+    "Description": "Wookie fur."
+  },
+  {
+    "ID": 33502,
+    "Name": "Officer bottoms",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Imperial Officer bottoms."
+  },
+  {
+    "ID": 33503,
+    "Name": "Han's Pants",
+    "Type": "Pants",
+    "Rarity": "Legendary",
+    "Description": "A ragged pair of smuggler's pants."
+  },
+  {
+    "ID": 33504,
+    "Name": "Imperial Interceptor Pilot Bottom",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Suit bottom for Imperial Interceptor pilots."
+  },
+  {
+    "ID": 33505,
+    "Name": "Imperial Pilot Bottom",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Suit bottom for Imperial pilots."
+  },
+  {
+    "ID": 33506,
+    "Name": "Princess Leia's dress bottom",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Fine woven white dress"
+  },
+  {
+    "ID": 33507,
+    "Name": "Luke's pants",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Light clothing for a desert environment"
+  },
+  {
+    "ID": 33508,
+    "Name": "Obi-Wan Kenobi's Robes",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Robes once worn by Jedi Knights."
+  },
+  {
+    "ID": 33509,
+    "Name": "Rebel Desert Pants",
+    "Type": "Pants",
+    "Rarity": "Uncommon",
+    "Description": "Worn by rebel soldiers fighting on desert planets such as, Jakku or Tatooine."
+  },
+  {
+    "ID": 33510,
+    "Name": "Rebel Captain pants.",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "A pair of Pocket-less pants"
+  },
+  {
+    "ID": 33511,
+    "Name": "Rebel Pilot Bottom",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Suit bottom for Rebel pilots."
+  },
+  {
+    "ID": 33512,
+    "Name": "Stormtrooper Greaves",
+    "Type": "Pants",
+    "Rarity": null,
+    "Description": "Plastisteel and extra ammo pouches"
+  },
+  {
+    "ID": 33513,
+    "Name": "Rebel Pants",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "A pair of pants worn by rebel crew."
+  },
+  {
+    "ID": 33514,
+    "Name": "Tar Vizsla's Greaves ",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Ancient Mandalorian Durasteel armor."
+  },
+  {
+    "ID": 33515,
+    "Name": "Darth Vader's suit bottoms",
+    "Type": "Pants",
+    "Rarity": "Legendary",
+    "Description": "Black leather bottoms."
+  },
+  {
+    "ID": 33516,
+    "Name": "Imperial Interceptor Pilot Bottom",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Suit bottom for Imperial Interceptor pilots."
+  },
+  {
+    "ID": 33517,
+    "Name": "Scout Trooper bottom.",
+    "Type": "Pants",
+    "Rarity": null,
+    "Description": "Plastisteel light trooper bottoms."
+  },
+  {
+    "ID": 33518,
+    "Name": "Rebel Y-Wing Pilot Bottom",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Suit bottom for Rebel Y-Wing pilots."
+  },
+  {
+    "ID": 33519,
+    "Name": "Rebel Commando Bottom",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Durable pants for a Rebel Commando soldier."
+  },
+  {
+    "ID": 33520,
+    "Name": "Shoretrooper Bottom",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Armored Bottoms worn by Imperial Shoretroopers."
+  },
+  {
+    "ID": 33521,
+    "Name": "Scarif Rebel Marine Bottoms",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Tan bottoms worn by Scarif Rebel Marines."
+  },
+  {
+    "ID": 33522,
+    "Name": "Scarif Rebel Marine Bottoms",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Brown bottoms worn by Scarif Rebel Marines."
+  },
+  {
+    "ID": 33523,
+    "Name": "Scarif Rebel Marine Bottoms",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Tan bottoms worn by Scarif Rebel Marines."
+  },
+  {
+    "ID": 33524,
+    "Name": "Baze Malbus' Suit Bottoms",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Tan bottoms worn by Baze Malbus."
+  },
+  {
+    "ID": 33525,
+    "Name": "Cassian Andor's Bottoms",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Gray colored bottoms worn by Captain Cassian Andor."
+  },
+  {
+    "ID": 33526,
+    "Name": "Director Krenni's Pants",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Black, pressed, pants worn by Director Krennic."
+  },
+  {
+    "ID": 33527,
+    "Name": "Jyn Erso's Pants",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Dingy blue pants worn by Jyn Erso."
+  },
+  {
+    "ID": 33528,
+    "Name": "Bistan's Flight Suit Bottom",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Flight Suit bottom worn by Bistan, a member of Blue squad."
+  },
+  {
+    "ID": 33529,
+    "Name": "Deathtrooper Bottoms",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Armored Bottoms worn by Imperial Deathtroopers."
+  },
+  {
+    "ID": 33530,
+    "Name": "Darth Malgus' Bottom",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Armored suit bottom worn by Sith Lord, Darth Malgus."
+  },
+  {
+    "ID": 33531,
+    "Name": "Ezra Bridger's Bottoms",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Orange flight suit bottom worn by Ezra Bridger, a member of Phoenix Squad."
+  },
+  {
+    "ID": 33532,
+    "Name": "Boba Fett's Pants",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Tan canvas pants equipped with pouches and armor. "
+  },
+  {
+    "ID": 33533,
+    "Name": "Durge's Greaves",
+    "Type": "Pants",
+    "Rarity": "Epic",
+    "Description": "An armored set of greaves worn by Durge."
+  },
+  {
+    "ID": 33534,
+    "Name": "Pre Vizsla's Pants",
+    "Type": "Pants",
+    "Rarity": "Epic",
+    "Description": "Pants equipped with armor plates. "
+  },
+  {
+    "ID": 33535,
+    "Name": "Blue Squad Infantry Bottoms",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Dark brown bottoms worn by the ground units of Blue Squadron."
+  },
+  {
+    "ID": 33536,
+    "Name": "Clan Wren Bottoms",
+    "Type": "Pants",
+    "Rarity": "Epic",
+    "Description": "An armored set of greaves worn by members of Clan Wren."
+  },
+  {
+    "ID": 33537,
+    "Name": "Dark Wookie Bottoms",
+    "Type": "Pants",
+    "Rarity": null,
+    "Description": "Pants made out of dark Wookie fur. "
+  },
+  {
+    "ID": 33538,
+    "Name": "Wookie Bottom's",
+    "Type": "Pants",
+    "Rarity": "Uncommon",
+    "Description": "Wookie fur."
+  },
+  {
+    "ID": 33539,
+    "Name": "Durge's Greaves",
+    "Type": "Pants",
+    "Rarity": "Epic",
+    "Description": "An armored set of greaves worn by Durge."
+  },
+  {
+    "ID": 33540,
+    "Name": "Darth Bane Bottom",
+    "Type": "Pants",
+    "Rarity": "Epic",
+    "Description": "Black Robes and greaves worn by Sith Lord Darth Bane."
+  },
+  {
+    "ID": 33545,
+    "Name": "Kanan's Pants",
+    "Type": "Pants",
+    "Rarity": "Legendary",
+    "Description": "Gray pants worn by Jedi Knight Kanan Jarrus."
+  },
+  {
+    "ID": 33560,
+    "Name": "Anakin Skywalker's Bottoms",
+    "Type": "Pants",
+    "Rarity": "Rare",
+    "Description": "Brown Jedi Robes worn by Jedi Knight Anakin Skywalker."
+  },
+  {
+    "ID": 33600,
+    "Name": "Blue Squadron Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Worn by the crew of Blue Squadron, an X-Wing fighter squad."
+  },
+  {
+    "ID": 33601,
+    "Name": "Chewbacca Top",
+    "Type": "Shirt",
+    "Rarity": "Uncommon",
+    "Description": "Wookie fur."
+  },
+  {
+    "ID": 33602,
+    "Name": "Officer top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Worn by an Officer of the Empire."
+  },
+  {
+    "ID": 33603,
+    "Name": "Han's Top",
+    "Type": "Shirt",
+    "Rarity": "Uncommon",
+    "Description": "A smuggler's shirt."
+  },
+  {
+    "ID": 33604,
+    "Name": "Imperial Interceptor Pilot Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A top worm by a Imperial Interceptor pilot."
+  },
+  {
+    "ID": 33605,
+    "Name": "Imperial Pilot Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A top worm by a Imperial pilot."
+  },
+  {
+    "ID": 33606,
+    "Name": "Princess Leia's dress top.",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Fine woven white dress"
+  },
+  {
+    "ID": 33607,
+    "Name": "Luke's shirt",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A light weight top for a warm climate."
+  },
+  {
+    "ID": 33608,
+    "Name": "Obi-Wan Kenobi's Robes",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Robes that were once worn by all Jedi Knights."
+  },
+  {
+    "ID": 33609,
+    "Name": "Obi-Wan Kenobi's Robes",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Robes once worn by all Jedi Knights."
+  },
+  {
+    "ID": 33610,
+    "Name": "Rebel Captain Top.",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Top worn by rebel captains."
+  },
+  {
+    "ID": 33611,
+    "Name": "Rebel Pilot Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A top worn by a Rebel Pilot."
+  },
+  {
+    "ID": 33612,
+    "Name": "Stormtrooper Shirt",
+    "Type": "Shirt",
+    "Rarity": "Uncommon",
+    "Description": "Worn under the vest, not over"
+  },
+  {
+    "ID": 33613,
+    "Name": "Rebel Shirt",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A Shirt worn by rebel crew."
+  },
+  {
+    "ID": 33614,
+    "Name": "Tar Vizsla's shirt",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A padded shirt, dawned with mandalorian colors. "
+  },
+  {
+    "ID": 33615,
+    "Name": "Darth Vader's suit top",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "A black leather top. "
+  },
+  {
+    "ID": 33616,
+    "Name": "Midshipman Desert Top",
+    "Type": "Shirt",
+    "Rarity": "Uncommon",
+    "Description": "Worn by rebel soldiers fighting on desert planets such as, Jakku or Tatooine."
+  },
+  {
+    "ID": 33617,
+    "Name": "Captain Desert Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Worn by rebel officers fighting on desert planets such as, Jakku or Tatooine."
+  },
+  {
+    "ID": 33618,
+    "Name": "Sub-Lieutenant Desert Top",
+    "Type": "Shirt",
+    "Rarity": "Uncommon",
+    "Description": "Worn by rebel soldiers fighting on desert planets such as, Jakku or Tatooine."
+  },
+  {
+    "ID": 33619,
+    "Name": "Lieutenant Desert Top",
+    "Type": "Shirt",
+    "Rarity": "Uncommon",
+    "Description": "Worn by rebel soldiers fighting on desert planets such as, Jakku or Tatooine."
+  },
+  {
+    "ID": 33620,
+    "Name": "Lieutenant Commander Desert Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Worn by rebel officers fighting on desert planets such as, Jakku or Tatooine."
+  },
+  {
+    "ID": 33621,
+    "Name": "Commander Desert Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Worn by rebel officers fighting on desert planets such as, Jakku or Tatooine."
+  },
+  {
+    "ID": 33622,
+    "Name": "Commodore Desert Top",
+    "Type": "Shirt",
+    "Rarity": "Epic",
+    "Description": "Worn by rebel command fighting on desert planets such as, Jakku or Tatooine."
+  },
+  {
+    "ID": 33623,
+    "Name": "Rear Admiral Desert Top",
+    "Type": "Shirt",
+    "Rarity": "Epic",
+    "Description": "Worn by rebel command fighting on desert planets such as, Jakku or Tatooine."
+  },
+  {
+    "ID": 33624,
+    "Name": "Vice Admiral Desert Top",
+    "Type": "Shirt",
+    "Rarity": "Epic",
+    "Description": "Worn by rebel command fighting on desert planets such as, Jakku or Tatooine."
+  },
+  {
+    "ID": 33625,
+    "Name": "Admiral Desert Top",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Worn by rebel head command fighting on desert planets such as, Jakku or Tatooine."
+  },
+  {
+    "ID": 33626,
+    "Name": "Fleet Admiral Desert Top",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Worn by rebel head command fighting on desert planets such as, Jakku or Tatooine."
+  },
+  {
+    "ID": 33627,
+    "Name": "High Admiral Desert Top",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "Worn by rebel head command fighting on desert planets such as, Jakku or Tatooine."
+  },
+  {
+    "ID": 33628,
+    "Name": "Imperial Interceptor Pilot Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A top worm by a Imperial Interceptor pilot."
+  },
+  {
+    "ID": 33629,
+    "Name": "Scout Trooper Top",
+    "Type": "Shirt",
+    "Rarity": "Uncommon",
+    "Description": "Light top for Imperial Scout Troopers."
+  },
+  {
+    "ID": 33630,
+    "Name": "Rebel Y-Wing Pilot Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A top worn by a Rebel Y-Wing Pilot."
+  },
+  {
+    "ID": 33631,
+    "Name": "Rebel Commando Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A top worn by a Rebel Commando Soldier."
+  },
+  {
+    "ID": 33632,
+    "Name": "Deathtrooper Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A top worn by the Elite Imperial Deathtroopers."
+  },
+  {
+    "ID": 33633,
+    "Name": "Bistan's Flight Suit Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Flight Suit top worn by Bistan, a member of Blue squad."
+  },
+  {
+    "ID": 33634,
+    "Name": "Shoretrooper Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Armored top worn by Imperial Shoretroopers."
+  },
+  {
+    "ID": 33635,
+    "Name": "Shoretrooper Captain Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Armored top worn by Imperial Shoretrooper Captains."
+  },
+  {
+    "ID": 33636,
+    "Name": "Scarif Rebel Marine Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Water Resistant Top worn by Scarif Rebel Marines."
+  },
+  {
+    "ID": 33637,
+    "Name": "Scarif Rebel Marine Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Water Resistant Top worn by Scarif Rebel Marines."
+  },
+  {
+    "ID": 33638,
+    "Name": "Scarif Rebel Marine Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Water Resistant Top worn by Scarif Rebel Marines."
+  },
+  {
+    "ID": 33639,
+    "Name": "Baze Malbus' Suit Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Tan Flight Suit worn by Baze Malbus."
+  },
+  {
+    "ID": 33640,
+    "Name": "Shoretrooper Leader Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Armored top worn by Imperial Shoretrooper Leaders."
+  },
+  {
+    "ID": 33641,
+    "Name": "Blue Squad Infantry Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Blue top worn by the ground units of Blue Squadron."
+  },
+  {
+    "ID": 33642,
+    "Name": "Cassian Andor's Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Tan top worn by Rebel Captain, Cassian Andor."
+  },
+  {
+    "ID": 33643,
+    "Name": "Director Krennic's Shirt",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "White Imperial Officer top worn by Director Krennic."
+  },
+  {
+    "ID": 33644,
+    "Name": "Jyn Erso Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Blue, wool, top worn by Jyn Erso."
+  },
+  {
+    "ID": 33645,
+    "Name": "Anakin Skywalker's Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Brown Jedi Robes worn by Jedi Knight Anakin Skywalker."
+  },
+  {
+    "ID": 33646,
+    "Name": "Anakin Skywalker's Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Brown Jedi Robes worn by Jedi Knight Anakin Skywalker."
+  },
+  {
+    "ID": 33647,
+    "Name": "Darth Malgus' Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Armored suit top worn by Sith Lord, Darth Malgus."
+  },
+  {
+    "ID": 33648,
+    "Name": "Ezra Bridger's Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Orange flight suit top worn by Ezra Bridger, a member of Phoenix Squad."
+  },
+  {
+    "ID": 33649,
+    "Name": "Boba Fett's Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "An armored weave shirt equiped with Mandalorian vambraces. "
+  },
+  {
+    "ID": 33650,
+    "Name": "Durge's Top",
+    "Type": "Shirt",
+    "Rarity": "Epic",
+    "Description": "An armor plated top equipped with gauntlets. "
+  },
+  {
+    "ID": 33651,
+    "Name": "Pre Vizsla's Top",
+    "Type": "Shirt",
+    "Rarity": "Epic",
+    "Description": "A heavy shirt equipped with Mandalorian vambraces."
+  },
+  {
+    "ID": 33652,
+    "Name": "Clan Wren Top",
+    "Type": "Shirt",
+    "Rarity": "Epic",
+    "Description": "An armored top worn by members of Clan Wren. "
+  },
+  {
+    "ID": 33653,
+    "Name": "Dark Wookie pelt",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A dark furred Wookie pelt. "
+  },
+  {
+    "ID": 33654,
+    "Name": "Wookie Top",
+    "Type": "Shirt",
+    "Rarity": "Uncommon",
+    "Description": "Wookie fur."
+  },
+  {
+    "ID": 33655,
+    "Name": "Durge's Top",
+    "Type": "Shirt",
+    "Rarity": "Epic",
+    "Description": "An armor plated top equipped with gauntlets. "
+  },
+  {
+    "ID": 33656,
+    "Name": "Darth Bane Top",
+    "Type": "Shirt",
+    "Rarity": "Epic",
+    "Description": "Black robes worn by Sith Lord Darth Bane."
+  },
+  {
+    "ID": 33658,
+    "Name": "Rebel Shirt",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A Shirt worn by rebel crew."
+  },
+  {
+    "ID": 33659,
+    "Name": "Rebel Shirt",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A Shirt worn by rebel crew."
+  },
+  {
+    "ID": 33660,
+    "Name": "Rebel Shirt",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A Shirt worn by rebel crew."
+  },
+  {
+    "ID": 33661,
+    "Name": "Rebel Shirt",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A Shirt worn by rebel crew."
+  },
+  {
+    "ID": 33662,
+    "Name": "Rebel Shirt",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "A Shirt worn by rebel crew."
+  },
+  {
+    "ID": 33667,
+    "Name": "Kanan's Top",
+    "Type": "Shirt",
+    "Rarity": "Legendary",
+    "Description": "A brown shirt worn by Jedi Knight Kanan Jarrus. "
+  },
+  {
+    "ID": 33700,
+    "Name": "A280C Optics",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "Description": "Short-Medium range scope."
+  },
+  {
+    "ID": 33701,
+    "Name": "Bowcaster Optics",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "Description": "Dual mounted optics"
+  },
+  {
+    "ID": 33702,
+    "Name": "Scout Pistol Optics",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "Description": "Rail mounted optic with electronic crosshair."
+  },
+  {
+    "ID": 33703,
+    "Name": "Relby-V10 Optics",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "Description": "Rail mounted optic with electronic aiming chevron."
+  },
+  {
+    "ID": 33704,
+    "Name": "DL44",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "Description": "Weak powered blaster pistol optics"
+  },
+  {
+    "ID": 33705,
+    "Name": "DH-17 Optics",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "Description": "Short-Medium range scope."
+  },
+  {
+    "ID": 33706,
+    "Name": "4x Scope",
+    "Type": "Sight",
+    "Rarity": "Rare",
+    "Description": "Rail mounted 4x zoom scope."
+  },
+  {
+    "ID": 33707,
+    "Name": "4x Scope",
+    "Type": "Sight",
+    "Rarity": "Rare",
+    "Description": "Rail mounted 4x zoom scope."
+  },
+  {
+    "ID": 33708,
+    "Name": "T-21 Iron Sights",
+    "Type": "Sight",
+    "Rarity": null,
+    "Description": "Rail mounted iron sights."
+  },
+  {
+    "ID": 33709,
+    "Name": "DH-17 Optics",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "Description": "Short-Medium range scope."
+  },
+  {
+    "ID": 33710,
+    "Name": "DLT-20A Optics",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "Description": "Medium-Long range scope."
+  },
+  {
+    "ID": 33711,
+    "Name": "E-22 Optics",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "Description": "Short-Medium range scope."
+  },
+  {
+    "ID": 33712,
+    "Name": "DH-17 Optics",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "Description": "Short-Medium range scope."
+  },
+  {
+    "ID": 33713,
+    "Name": "DT-29 Scope",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "Description": "Optics for the DT-29 Pistol."
+  },
+  {
+    "ID": 33714,
+    "Name": "Heavy Repeater Cannon Optics",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "Description": "High Powered Optics used by Baze Malbus and his Heavy Repeater Cannon."
+  },
+  {
+    "ID": 33715,
+    "Name": "ASeries Optics",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "Description": "Short-Medium ranged optics compatable with the ASeries weapons."
+  },
+  {
+    "ID": 33716,
+    "Name": "DLT-19x Optics",
+    "Type": "Sight",
+    "Rarity": "Uncommon",
+    "Description": "Long Range sniper optics."
+  },
+  {
+    "ID": 33800,
+    "Name": "A280C Blaster Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "High caliber blaster rifle cell."
+  },
+  {
+    "ID": 33801,
+    "Name": "SFS L-s1 Laser Cannon Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "High powered cannon cell capsule."
+  },
+  {
+    "ID": 33802,
+    "Name": "SW-4 Ion Cannon Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "High powered cannon cell capsule."
+  },
+  {
+    "ID": 33803,
+    "Name": "Bowcaster Energy Cells",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Ionized Energy Cells capable of long distances and splash damage."
+  },
+  {
+    "ID": 33804,
+    "Name": "TX-225 Blaster Cannon cell",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "Description": "High powered explosive energy cells, capable for 200 meters."
+  },
+  {
+    "ID": 33805,
+    "Name": "DH-17 Energy Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Compact power cell for the DH-17 blaster pistol."
+  },
+  {
+    "ID": 33806,
+    "Name": "DL44 Energy Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Compressed Energy Cell, converted for the DL44 Blaster Pistol."
+  },
+  {
+    "ID": 33807,
+    "Name": "DLT-19 Magazine",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "High caliber blaster rifle cell."
+  },
+  {
+    "ID": 33808,
+    "Name": "E-11 Blaster Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Low caliber blaster rifle cell. "
+  },
+  {
+    "ID": 33809,
+    "Name": "IX4 Laser Cannon Capsule",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "High powered cannon cell capsule."
+  },
+  {
+    "ID": 33810,
+    "Name": "Twin Light Blaster Cannon Cell",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "Description": "Medium powered energy cells, capable for 175 meters."
+  },
+  {
+    "ID": 33811,
+    "Name": "Ion-Blaster Magazine",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "Description": "Ranger grade <color=rare>Ion_Blaster</color> magazine. Designed to fit 7 energy cells."
+  },
+  {
+    "ID": 33812,
+    "Name": "WESTAR-35 power cell",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "Description": "A small power cell for the WESTAR-35"
+  },
+  {
+    "ID": 33813,
+    "Name": "Z-6 Energy Cell",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "Description": "Medium powered explosive energy cells, capable for 200 meters."
+  },
+  {
+    "ID": 33814,
+    "Name": "Relby-V10 Magazine",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "Description": "Energy cell capable of firing 10 shots"
+  },
+  {
+    "ID": 33815,
+    "Name": "Rocket Energy Cell",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "Description": "Dual slotted high powered rocket energy cell."
+  },
+  {
+    "ID": 33816,
+    "Name": "Scout Pistol Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Light energy cell capable of 12 shots."
+  },
+  {
+    "ID": 33817,
+    "Name": "Sporting Pistol Energy Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Light energy cell capable of 20 shots."
+  },
+  {
+    "ID": 33818,
+    "Name": "T-21 Energy Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Large energy cell capable of 200 shots"
+  },
+  {
+    "ID": 33819,
+    "Name": "L-s1 Laser Cannon Capsule ",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "High powered cannon cell capsule."
+  },
+  {
+    "ID": 33820,
+    "Name": "IX4 Laser Cannon Capsule",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "High powered cannon cell capsule."
+  },
+  {
+    "ID": 33821,
+    "Name": "Ion Bomb Capsule",
+    "Type": "Magazine",
+    "Rarity": "Legendary",
+    "Description": "Large Bomb cell capsule."
+  },
+  {
+    "ID": 33822,
+    "Name": "DLT-20A Magazine",
+    "Type": "Magazine",
+    "Rarity": "Rare",
+    "Description": "A small Ion cell manufactured for the DLT-20A."
+  },
+  {
+    "ID": 33823,
+    "Name": "Blaster Cannon Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "A small ion cell for blaster cannons."
+  },
+  {
+    "ID": 33824,
+    "Name": "E-22 Blaster Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Low caliber blaster rifle cell. "
+  },
+  {
+    "ID": 33825,
+    "Name": "E-11D Blaster Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Low caliber blaster rifle cell. "
+  },
+  {
+    "ID": 33826,
+    "Name": "E-11D Blaster Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Low caliber blaster rifle cell. "
+  },
+  {
+    "ID": 33827,
+    "Name": "A-Series magazine",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "A compact rechargeable magazine. "
+  },
+  {
+    "ID": 33828,
+    "Name": "A180 power cell.",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "A small plasma cell. "
+  },
+  {
+    "ID": 33829,
+    "Name": "DT-29 blaster cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "A high caliber energy cell. "
+  },
+  {
+    "ID": 33830,
+    "Name": "MWC-35c power core",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "A small power core conductor."
+  },
+  {
+    "ID": 33831,
+    "Name": "Banana",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Use this to restore Bistans scream!"
+  },
+  {
+    "ID": 33832,
+    "Name": "HE Ion magazine",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "An ion magazine capable of large explosions. Devastating to infantry.  "
+  },
+  {
+    "ID": 33833,
+    "Name": "EE3 Magazine",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "A low caliber ion magazine."
+  },
+  {
+    "ID": 33834,
+    "Name": "Twin Cannon Energy Capsule",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "High powered cannon cell capsule."
+  },
+  {
+    "ID": 33835,
+    "Name": "Blaster Pistol Energy Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "A small energy cell for a blaster pistol. "
+  },
+  {
+    "ID": 33836,
+    "Name": "Spikes",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Small needles for Durge's spike launcher. "
+  },
+  {
+    "ID": 33837,
+    "Name": "Blaster Pistol Energy Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "A small energy cell for a blaster pistol. "
+  },
+  {
+    "ID": 33838,
+    "Name": "MS-2B Twin Laser Cannon Capsule.",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "High powered cannon cell capsule."
+  },
+  {
+    "ID": 33839,
+    "Name": "L-s1 Laser Cannon Capsule ",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "High powered cannon cell capsule."
+  },
+  {
+    "ID": 33840,
+    "Name": "DLT-19X Magazine",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "High caliber blaster rifle cell."
+  },
+  {
+    "ID": 33841,
+    "Name": "Bowcaster Energy Cells",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Ionized Energy Cells capable of long distances and splash damage."
+  },
+  {
+    "ID": 33842,
+    "Name": "AP Ion magazine",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "An ion magazine capable of piercing even the toughest of shields.  "
+  },
+  {
+    "ID": 33843,
+    "Name": "IX4 Laser Cannon Capsule",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Shield disabling cannon cell capsule."
+  },
+  {
+    "ID": 33844,
+    "Name": "IX4 Laser Cannon Capsule",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "High explosive cannon cell capsule."
+  },
+  {
+    "ID": 33845,
+    "Name": "IX4 Laser Cannon Capsule",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "High powered cannon cell capsule."
+  },
+  {
+    "ID": 33846,
+    "Name": "Blaster Pistol Energy Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "A small energy cell for a blaster pistol. "
+  },
+  {
+    "ID": 33847,
+    "Name": "IX7 Laser Cannon Capsule",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "High powered cannon cell capsule."
+  },
+  {
+    "ID": 33900,
+    "Name": "A280C Blaster Rifle",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Preferred weapon of the Rebel Alliance. Accurate over distances but when shot for a period of time, loses effectiveness."
+  },
+  {
+    "ID": 33901,
+    "Name": "SFS L-s1 Laser Cannons",
+    "Type": "Gun",
+    "Rarity": "Mythical",
+    "Description": "Dual Ion Cannons used on Galactic TIE Bombers."
+  },
+  {
+    "ID": 33902,
+    "Name": "SW-4 Ion Cannon",
+    "Type": "Gun",
+    "Rarity": "Mythical",
+    "Description": "Dual Ion Cannons used on Y-wing starfighters.\t"
+  },
+  {
+    "ID": 33903,
+    "Name": "Bowcaster",
+    "Type": "Gun",
+    "Rarity": "Mythical",
+    "Description": "The bowcaster, also known as the laser crossbow, was a type of traditional, handcrafted projectile weapon commonly used by Wookies."
+  },
+  {
+    "ID": 33904,
+    "Name": "TX-225 Blaster Cannon",
+    "Type": "Gun",
+    "Rarity": "Rare",
+    "Description": "Light assault blaster cannons; mounted on either side of the combat assault tank."
+  },
+  {
+    "ID": 33905,
+    "Name": "DH-17 Blaster Pistol",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Close combat blaster pistol. Commonly used by soldiers of the Rebel Alliance."
+  },
+  {
+    "ID": 33906,
+    "Name": "DL44",
+    "Type": "Gun",
+    "Rarity": "Rare",
+    "Description": "A handy blaster\t"
+  },
+  {
+    "ID": 33907,
+    "Name": "DL44",
+    "Type": "Gun",
+    "Rarity": "Rare",
+    "Description": "A handy blaster\t"
+  },
+  {
+    "ID": 33908,
+    "Name": "DLT-19",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Preferred heavy blaster of the Galactic Empire, more powerful than the E-11, but higher recoil."
+  },
+  {
+    "ID": 33909,
+    "Name": "E-11 Blaster Rifle",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Standard issue rifle for the Imperial Army. "
+  },
+  {
+    "ID": 33910,
+    "Name": "IX4 Laser Cannon",
+    "Type": "Gun",
+    "Rarity": "Mythical",
+    "Description": "IX4 Laser Cannon was a laser cannon used on starfighters/bombers."
+  },
+  {
+    "ID": 33911,
+    "Name": "Twin Light blaster Cannon",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A medium powered blaster cannon. "
+  },
+  {
+    "ID": 33912,
+    "Name": "Ion-Blaster",
+    "Type": "Gun",
+    "Rarity": "Uncommon",
+    "Description": "Blaster shotgun used by Jawas.\t"
+  },
+  {
+    "ID": 33914,
+    "Name": "Z-6 Rotary Cannon",
+    "Type": "Gun",
+    "Rarity": "Rare",
+    "Description": "Limited-range heavy artillery variant of the handheld blaster."
+  },
+  {
+    "ID": 33915,
+    "Name": "Relby-V10",
+    "Type": "Gun",
+    "Rarity": "Rare",
+    "Description": "Trigger action laser rifle commonly used amongst bounty hunters."
+  },
+  {
+    "ID": 33916,
+    "Name": "Smart Rocket Launcher",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "Powerful rocket launcher used by both the Galactic Empire and Rebel Alliance during the Galactic Civil War."
+  },
+  {
+    "ID": 33917,
+    "Name": "Scout Pistol",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Two round burst, light pistol"
+  },
+  {
+    "ID": 33918,
+    "Name": "Sporting Pistol",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Light, thin-barrelled blaster"
+  },
+  {
+    "ID": 33919,
+    "Name": "T-21",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Heavy blaster effective at close range"
+  },
+  {
+    "ID": 33920,
+    "Name": "L-s1 Laser Cannon",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Twin Turbo Laser Cannons created for starfighters."
+  },
+  {
+    "ID": 33921,
+    "Name": "IX4 Laser Cannon",
+    "Type": "Gun",
+    "Rarity": "Mythical",
+    "Description": "IX4 Laser Cannon was a laser cannon used on starfighters/bombers."
+  },
+  {
+    "ID": 33922,
+    "Name": "SFS T-s5 Ion Bomb Launchers",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "Powerful Ion Bombs used by Galactic TIE Bombers and Rebel Y-Wings."
+  },
+  {
+    "ID": 33923,
+    "Name": "DLT-20A Blaster Rifle",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A high powered blaster rifle. "
+  },
+  {
+    "ID": 33924,
+    "Name": "Blaster Cannon",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A light blaster cannon. \t"
+  },
+  {
+    "ID": 33925,
+    "Name": "E-22 Blaster Rifle",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A light blaster rifle issued to Shoretroopers.  "
+  },
+  {
+    "ID": 33926,
+    "Name": "E-11D",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A medium powered rifle used by Death Troopers.   "
+  },
+  {
+    "ID": 33927,
+    "Name": "SE-14r ",
+    "Type": "Gun",
+    "Rarity": "Rare",
+    "Description": "A light repating blaster pistol. \t"
+  },
+  {
+    "ID": 33928,
+    "Name": "A280-CFE",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A modular version of the A280 blaster rifle.   "
+  },
+  {
+    "ID": 33929,
+    "Name": "A180",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A modular blaster pistol manufactured by BlasTech Industries. "
+  },
+  {
+    "ID": 33930,
+    "Name": "A-300",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A medium ranged rifle manufactured by Blas-Tech Industries. "
+  },
+  {
+    "ID": 33931,
+    "Name": "DT-29",
+    "Type": "Gun",
+    "Rarity": "Rare",
+    "Description": "A heavy blaster pistol used by Orson Krennic. "
+  },
+  {
+    "ID": 33932,
+    "Name": "MWC-35c",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A heavy repeating cannon manufactured by Morellian Weapons Conglomerate. "
+  },
+  {
+    "ID": 33933,
+    "Name": "Bistan's scream",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "The mighty roar of the Iakaru. "
+  },
+  {
+    "ID": 33934,
+    "Name": "KX7 laser cannons",
+    "Type": "Gun",
+    "Rarity": "Mythical",
+    "Description": "Twin heavy laser cannons.\t"
+  },
+  {
+    "ID": 33935,
+    "Name": "M-45 repeating ion blaster",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A door mounted M-45 repeating ion blaster. \t"
+  },
+  {
+    "ID": 33936,
+    "Name": "Bistans DH-17 Blaster Pistol",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Close combat blaster pistol.Used by Bistan of the Rebel Alliance."
+  },
+  {
+    "ID": 33937,
+    "Name": "EE3",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A blaster carbine manufactued by BlasTech Industries."
+  },
+  {
+    "ID": 33938,
+    "Name": "Twin Rotating Blaster Cannons",
+    "Type": "Gun",
+    "Rarity": "Mythical",
+    "Description": "Twin cannons mounted on the Slave 1."
+  },
+  {
+    "ID": 33939,
+    "Name": "Durge's Blaster Pistols",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Dual wielded blasters. "
+  },
+  {
+    "ID": 33940,
+    "Name": "Durge's Spike Launcher",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A wrist mounted projectile launcher. "
+  },
+  {
+    "ID": 33941,
+    "Name": "Dual Westar-35s",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Dual wielded Westar-35s."
+  },
+  {
+    "ID": 33942,
+    "Name": "MS-2B Twin Laser Cannons",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Twin Laser Cannons created for starfighters."
+  },
+  {
+    "ID": 33943,
+    "Name": "A280-CFE-S",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A medium ranged rifle manufactured by Blas-Tech Industries. "
+  },
+  {
+    "ID": 33944,
+    "Name": "NS-4C Twin Laser Cannons",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Twin Laser Cannons created for starfighters."
+  },
+  {
+    "ID": 33945,
+    "Name": "DLT-19X",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A modified DLT19 adapted for long range engagements. "
+  },
+  {
+    "ID": 33946,
+    "Name": "Bowcaster",
+    "Type": "Gun",
+    "Rarity": "Mythical",
+    "Description": "The bowcaster, also known as the laser crossbow, was a type of traditional, handcrafted projectile weapon commonly used by Wookies."
+  },
+  {
+    "ID": 33947,
+    "Name": "M-45 repeating ion blaster",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "A door mounted M-45 repeating ion blaster. \t"
+  },
+  {
+    "ID": 33948,
+    "Name": "IX4 Laser Cannon",
+    "Type": "Gun",
+    "Rarity": "Mythical",
+    "Description": "IX4 Laser Cannon was a laser cannon used on starfighters/bombers."
+  },
+  {
+    "ID": 33949,
+    "Name": "Dual Heavy Blasters",
+    "Type": "Gun",
+    "Rarity": "Legendary",
+    "Description": "Dual heavy blasters wielded by Jaster Mereel. "
+  },
+  {
+    "ID": 33950,
+    "Name": "Dual Heavy Blaster Cannons",
+    "Type": "Gun",
+    "Rarity": "Epic",
+    "Description": "Twin heavy blaster cannons. "
+  },
+  {
+    "ID": 34000,
+    "Name": "Thermal Detonator",
+    "Type": "Throwable",
+    "Rarity": "Rare",
+    "Description": "A highly explosive handheld grenade. "
+  },
+  {
+    "ID": 34001,
+    "Name": "Bar Tap",
+    "Type": "Medium",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 34001,
+    "Name": "A280-CFE Grip",
+    "Type": "Grip",
+    "Rarity": "Rare",
+    "Description": "A modular grip designed for the A280-CFE."
+  },
+  {
+    "ID": 34002,
+    "Name": "Tatooine House #1",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 34002,
+    "Name": "A280-CFE Barrel",
+    "Type": "Barrel",
+    "Rarity": "Rare",
+    "Description": "A modular grip designed for the A280-CFE."
+  },
+  {
+    "ID": 34003,
+    "Name": "E-11D Laser",
+    "Type": "Tactical",
+    "Rarity": "Rare",
+    "Description": "Side mounted tactical laser. Increases accuracy."
+  },
+  {
+    "ID": 34003,
+    "Name": "Tatooine House #2",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 34004,
+    "Name": "Tatooine House #3",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 34005,
+    "Name": "Jabbas Palace",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 34006,
+    "Name": "Cantina",
+    "Type": "Large",
+    "Rarity": null,
+    "Description": null
+  },
+  {
+    "ID": 47060,
+    "Name": "Phase 1 Clone Helmet",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Clone Helmet, Phase 1"
+  },
+  {
+    "ID": 47061,
+    "Name": "Phase 1 Clone Armour",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Blaster proof Chest plates."
+  },
+  {
+    "ID": 47063,
+    "Name": "Clone Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Phase 1 Clone Top"
+  },
+  {
+    "ID": 47064,
+    "Name": "Clone Pants",
+    "Type": "Pants",
+    "Rarity": null,
+    "Description": "Phase 1 Clone Trooper Pants"
+  },
+  {
+    "ID": 47065,
+    "Name": "DC15s",
+    "Type": "Gun",
+    "Rarity": "Common",
+    "Description": "Republic forces short rifle"
+  },
+  {
+    "ID": 47066,
+    "Name": "DC15s Mag",
+    "Type": "Magazine",
+    "Rarity": "Common",
+    "Description": "Power Cell for the DC15s"
+  },
+  {
+    "ID": 47080,
+    "Name": "Super Battle Droid Helmet",
+    "Type": "Hat",
+    "Rarity": "Rare",
+    "Description": "Super!"
+  },
+  {
+    "ID": 47081,
+    "Name": "Super Battle Droid Vest",
+    "Type": "Vest",
+    "Rarity": "Rare",
+    "Description": "Blaster proof Chest plates."
+  },
+  {
+    "ID": 47083,
+    "Name": "SB Droid Top",
+    "Type": "Shirt",
+    "Rarity": "Rare",
+    "Description": "Droid Top"
+  },
+  {
+    "ID": 47084,
+    "Name": "SB Droid Pants",
+    "Type": "Pants",
+    "Rarity": null,
+    "Description": "SBD Pants"
+  },
+  {
+    "ID": 47085,
+    "Name": "Droid Blaster",
+    "Type": "Gun",
+    "Rarity": "Common",
+    "Description": "Wrist Mounted Blaster"
+  },
+  {
+    "ID": 47086,
+    "Name": "Droid Cell",
+    "Type": "Magazine",
+    "Rarity": "Epic",
+    "Description": "Power Cell for the Droid Blaster"
+  }
+]
