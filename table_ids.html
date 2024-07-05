@@ -94,7 +94,8 @@
           allRecordsHTML += '<tr>';
           allRecordsHTML += '<td>' + '<img height="50" class="image" src="https://mrgulka.github.io/images/' + data[i].ID + '.png" oneerror=\'this.style.display = "none"\' alt=" "/>' + '</td>';
           allRecordsHTML += '<td>' + data[i].ID + '</td>';
-          allRecordsHTML += '<td>' + data[i].NAME + '</td>';
+          allRecordsHTML += '<td>' + data[i].Name + '</td>';
+          allRecordsHTML += '<td>' + data[i].Description + '</td>';
           allRecordsHTML += '</tr>';
         }
         var table = document.getElementById("dataTable");
