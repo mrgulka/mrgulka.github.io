@@ -61,10 +61,8 @@
 <body>
   <header>
     <div class="topnav text-white">
-      <a class="active" id="relsi">Items New</a>
-      <a id="relorig">Original</a>
-      <a onclick="ReloadItemsOld()">Items old</a>
-      <a onclick="ReloadHelpers()">Helpers</a>
+      <button type="button" class="btn btn-primary btn-lg" id="relsi" data-bs-toggle="button" autocomplete="off">Base SI</button>
+      <button type="button" class="btn btn-secondary btn-lg" id="relorig" data-bs-toggle="button" autocomplete="off">Original</button>
       <div class="form-group">
         <input type="text" class="form-control" id="search" placeholder="Поиск по таблице">
       </div>
@@ -85,15 +83,32 @@
   </div>
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
   <script>
-    $(document).ready(function () {
-      $('#relsi').click(Reload('https://mrgulka.github.io/2612257810.json'));
-      $('#relorig').click(Reload('https://mrgulka.github.io/1664827613.json'));
+    $(document).ready(function ()
+    {
+      $('#relsi').click(
+        function ()
+        {
+          Reload('https://mrgulka.github.io/2612257810.json')
+        });
+      $("#relorig").click(
+        function ()
+        {
+          Reload('https://mrgulka.github.io/1664827613.json')
+        }
+      )
     });
-    function Reload(path) {
-      $.getJSON(path, function (data) {
+    function Reload(path)
+    {
+      $.getJSON(path, function (data)
+      {
         var allRecordsHTML = '';
         for (var i = 0; i < data.length; i++) {
-          if (data[i].Type == "Object") return;
+          if (data[i].Type == "Object" 
+          || data[i].Type == "Vehicle"
+          || data[i].Type == "Effect" 
+          || data[i].Type == "Large"
+          || data[i].Type == "Medium"
+          || data[i].Type == "Decal") continue;
           allRecordsHTML += '<tr>';
           allRecordsHTML += '<td>' + '<img height="50" class="image" src="https://mrgulka.github.io/images/' + data[i].ID + '.png" oneerror=\'this.style.display = "none"\' alt=" "/>' + '</td>';
           allRecordsHTML += '<td>' + data[i].ID + '</td>';
@@ -108,10 +123,13 @@
     };
   </script>
   <script>
-    $(document).ready(function () {
-      $("#search").keyup(function () {
+    $(document).ready(function ()
+    {
+      $("#search").keyup(function ()
+      {
         _this = this;
-        $.each($("#display_json_data tbody tr"), function () {
+        $.each($("#display_json_data tbody tr"), function ()
+        {
           if ($(this).text().toLowerCase().indexOf($(_this).val().toLowerCase()) === -1) {
             $(this).hide();
           }
