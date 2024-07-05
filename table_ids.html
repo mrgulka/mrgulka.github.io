@@ -82,28 +82,7 @@
       <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
       <script>
         $(Reload('https://mrgulka.github.io/2612257810.json'));
-       </script>
-       <script>
-         $(document).ready(function(){
-             $("#search").keyup(function()
-             {
-               _this = this;
-               $.each($("#display_json_data tbody tr"), function() 
-               {
-                   if($(this).text().toLowerCase().indexOf($(_this).val().toLowerCase()) === -1)
-                   {
-                       $(this).hide();
-                   } 
-                   else 
-                   {
-                       $(this).show();                
-                   }
-               });
-             });
-         });
-        </script>
-        <script>
-          function ReloadItems()
+        function ReloadItems()
           {
             Reload('https://mrgulka.github.io/2612257810.json');
           };
@@ -128,6 +107,25 @@
                table.innerHTML = allRecordsHTML;
            })
           };
+       </script>
+       <script>
+         $(document).ready(function(){
+             $("#search").keyup(function()
+             {
+               _this = this;
+               $.each($("#display_json_data tbody tr"), function() 
+               {
+                   if($(this).text().toLowerCase().indexOf($(_this).val().toLowerCase()) === -1)
+                   {
+                       $(this).hide();
+                   } 
+                   else 
+                   {
+                       $(this).show();                
+                   }
+               });
+             });
+         });
         </script>
   </body>
 </html>
